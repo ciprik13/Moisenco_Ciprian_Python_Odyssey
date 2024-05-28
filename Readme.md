@@ -44,8 +44,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-
-2. Aplicația se va deschide în browserul tău implicit. Poți vizualiza prețurile Bitcoin în timp real și predicțiile pe interfață.
+3. Aplicația se va deschide în browserul tău implicit. Poți vizualiza prețurile Bitcoin în timp real și predicțiile pe interfață. Așteaptă 2 minute.
 
 ## Structura proiectului
 - app.py: scriptul principal al aplicației.
