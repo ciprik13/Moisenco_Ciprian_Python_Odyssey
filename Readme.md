@@ -13,19 +13,14 @@ Această aplicație implementează o predicție a prețului criptomonedelor în 
 ## Cerințe
 
 - Python 3.7 sau mai mare
-- Streamlit
-- NumPy
-- Matplotlib
-- pmdarima
-- Requests
-- Logging
 
 ## Instalare
 
 1. Clonează acest depozit:
 
 ```bash
-git clone https://github.com/ciprik13/Moisenco_Ciprian_Python_Odyssey/tree/master
+git clone https://github.com/ciprik13/Moisenco_Ciprian_Python_Odyssey.git
+git checkout master
 ```
 
 2. Instaleaz[ pachetele necesare:
