@@ -132,8 +132,8 @@ if not st.session_state.stop_button:
                     ax.fill_between(forecast_index, conf_int[:, 0], conf_int[:, 1], color='pink', alpha=0.3)
 
                     # Set axis labels
-                    ax.set_xlabel('Timp (minute)', fontsize=12)
-                    ax.set_ylabel('Preț BTC (USDT)', fontsize=12)
+                    ax.set_xlabel('Time (minutes)', fontsize=12)
+                    ax.set_ylabel('BTC Price (USDT)', fontsize=12)
 
                     ax.legend()
                     plot_placeholder.pyplot(fig)
