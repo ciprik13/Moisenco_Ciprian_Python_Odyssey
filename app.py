@@ -6,14 +6,19 @@ import pmdarima as pm
 import time
 import requests
 import logging
+import os
+from dotenv import load_dotenv
 from PIL import Image
+
+load_dotenv()
+
 
 # Configure logging
 logging.basicConfig(filename='project.log', level=logging.INFO,
                     format='%(asctime)s %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
 
-API_KEY = 'e8ShAFz1nyeYApFngxejXQRKYEKYdq7D649DlBcUL2uOz19TkPKvff0RgcIhWzk0'
-API_SECRET = 'WelQckGklViZ8alvPDODgVEitzXdSPAATdZdzF5rlQjfRwdt2N7QfDLc7bNWKrvR'
+API_KEY = os.getenv('API_KEY')
+API_SECRET = os.getenv('API_SECRET')
 
 logging.info('START EXECUTION')
 

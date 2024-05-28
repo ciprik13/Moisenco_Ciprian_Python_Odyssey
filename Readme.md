@@ -16,14 +16,19 @@ Această aplicație implementează o predicție a prețului criptomonedelor în 
 
 ## Instalare
 
-1. Clonează acest depozit:
+1. Clonează acest repozitoriu:
 
 ```bash
 git clone https://github.com/ciprik13/Moisenco_Ciprian_Python_Odyssey.git
 git checkout master
 ```
+2. Crează virtual environment 
+```bash
+python -m venv .venv
+.venv/Scripts/activate.bat
+```
 
-2. Instaleaz[ pachetele necesare:
+3. Instalează pachetele necesare:
 
 ```bash
 pip install -r requirements.txt
