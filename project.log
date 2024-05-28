@@ -4870,3 +4870,1789 @@
  68449.99 68444.74 68439.77 68426.37 68435.99 68435.99 68435.99 68439.99
  68439.99 68439.99 68440.   68436.  ]
 2024-05-28 23:03:42 Starting price prediction using ARIMA...
+2024-05-28 23:48:47 START EXECUTION
+2024-05-28 23:48:48 Current time: 2024-05-28 23:48:48
+2024-05-28 23:48:48 Started Fetching data from binance
+2024-05-28 23:48:48 Fetching data from Binance API...
+2024-05-28 23:48:49 Fetched price: 68204.99
+2024-05-28 23:48:49 Ending Fetching data from binance
+2024-05-28 23:48:49 Latest BTC Price: 68204.99 USDT
+2024-05-28 23:48:49 Current length of price history: 1
+2024-05-28 23:48:49 Price history length: 1 and prediction days: 60
+2024-05-28 23:48:49 Collecting data...
+2024-05-28 23:48:50 Current time: 2024-05-28 23:48:50
+2024-05-28 23:48:50 Started Fetching data from binance
+2024-05-28 23:48:50 Fetching data from Binance API...
+2024-05-28 23:48:50 Fetched price: 68205.0
+2024-05-28 23:48:50 Ending Fetching data from binance
+2024-05-28 23:48:50 Latest BTC Price: 68205.00 USDT
+2024-05-28 23:48:50 Current length of price history: 2
+2024-05-28 23:48:50 Price history length: 2 and prediction days: 60
+2024-05-28 23:48:50 Collecting data...
+2024-05-28 23:48:51 Current time: 2024-05-28 23:48:51
+2024-05-28 23:48:51 Started Fetching data from binance
+2024-05-28 23:48:51 Fetching data from Binance API...
+2024-05-28 23:48:52 Fetched price: 68205.0
+2024-05-28 23:48:52 Ending Fetching data from binance
+2024-05-28 23:48:52 Latest BTC Price: 68205.00 USDT
+2024-05-28 23:48:52 Current length of price history: 3
+2024-05-28 23:48:52 Price history length: 3 and prediction days: 60
+2024-05-28 23:48:52 Collecting data...
+2024-05-28 23:48:53 Current time: 2024-05-28 23:48:53
+2024-05-28 23:48:53 Started Fetching data from binance
+2024-05-28 23:48:53 Fetching data from Binance API...
+2024-05-28 23:48:54 Fetched price: 68205.0
+2024-05-28 23:48:54 Ending Fetching data from binance
+2024-05-28 23:48:54 Latest BTC Price: 68205.00 USDT
+2024-05-28 23:48:54 Current length of price history: 4
+2024-05-28 23:48:54 Price history length: 4 and prediction days: 60
+2024-05-28 23:48:54 Collecting data...
+2024-05-28 23:48:55 Current time: 2024-05-28 23:48:55
+2024-05-28 23:48:55 Started Fetching data from binance
+2024-05-28 23:48:55 Fetching data from Binance API...
+2024-05-28 23:48:55 Fetched price: 68204.99
+2024-05-28 23:48:55 Ending Fetching data from binance
+2024-05-28 23:48:55 Latest BTC Price: 68204.99 USDT
+2024-05-28 23:48:55 Current length of price history: 5
+2024-05-28 23:48:55 Price history length: 5 and prediction days: 60
+2024-05-28 23:48:55 Collecting data...
+2024-05-28 23:48:56 Current time: 2024-05-28 23:48:56
+2024-05-28 23:48:56 Started Fetching data from binance
+2024-05-28 23:48:56 Fetching data from Binance API...
+2024-05-28 23:48:57 Fetched price: 68200.64
+2024-05-28 23:48:57 Ending Fetching data from binance
+2024-05-28 23:48:57 Latest BTC Price: 68200.64 USDT
+2024-05-28 23:48:57 Current length of price history: 6
+2024-05-28 23:48:57 Price history length: 6 and prediction days: 60
+2024-05-28 23:48:57 Collecting data...
+2024-05-28 23:48:58 Current time: 2024-05-28 23:48:58
+2024-05-28 23:48:58 Started Fetching data from binance
+2024-05-28 23:48:58 Fetching data from Binance API...
+2024-05-28 23:48:58 Fetched price: 68200.16
+2024-05-28 23:48:58 Ending Fetching data from binance
+2024-05-28 23:48:58 Latest BTC Price: 68200.16 USDT
+2024-05-28 23:48:58 Current length of price history: 7
+2024-05-28 23:48:58 Price history length: 7 and prediction days: 60
+2024-05-28 23:48:58 Collecting data...
+2024-05-28 23:48:59 Current time: 2024-05-28 23:48:59
+2024-05-28 23:48:59 Started Fetching data from binance
+2024-05-28 23:48:59 Fetching data from Binance API...
+2024-05-28 23:48:59 Fetched price: 68200.16
+2024-05-28 23:48:59 Ending Fetching data from binance
+2024-05-28 23:48:59 Latest BTC Price: 68200.16 USDT
+2024-05-28 23:48:59 Current length of price history: 8
+2024-05-28 23:48:59 Price history length: 8 and prediction days: 60
+2024-05-28 23:48:59 Collecting data...
+2024-05-28 23:49:00 Current time: 2024-05-28 23:49:00
+2024-05-28 23:49:00 Started Fetching data from binance
+2024-05-28 23:49:00 Fetching data from Binance API...
+2024-05-28 23:49:01 Fetched price: 68200.17
+2024-05-28 23:49:01 Ending Fetching data from binance
+2024-05-28 23:49:01 Latest BTC Price: 68200.17 USDT
+2024-05-28 23:49:01 Current length of price history: 9
+2024-05-28 23:49:01 Price history length: 9 and prediction days: 60
+2024-05-28 23:49:01 Collecting data...
+2024-05-28 23:49:02 Current time: 2024-05-28 23:49:02
+2024-05-28 23:49:02 Started Fetching data from binance
+2024-05-28 23:49:02 Fetching data from Binance API...
+2024-05-28 23:49:02 Fetched price: 68200.16
+2024-05-28 23:49:02 Ending Fetching data from binance
+2024-05-28 23:49:02 Latest BTC Price: 68200.16 USDT
+2024-05-28 23:49:02 Current length of price history: 10
+2024-05-28 23:49:02 Price history length: 10 and prediction days: 60
+2024-05-28 23:49:02 Collecting data...
+2024-05-28 23:49:03 Current time: 2024-05-28 23:49:03
+2024-05-28 23:49:03 Started Fetching data from binance
+2024-05-28 23:49:03 Fetching data from Binance API...
+2024-05-28 23:49:04 Fetched price: 68200.17
+2024-05-28 23:49:04 Ending Fetching data from binance
+2024-05-28 23:49:04 Latest BTC Price: 68200.17 USDT
+2024-05-28 23:49:04 Current length of price history: 11
+2024-05-28 23:49:04 Price history length: 11 and prediction days: 60
+2024-05-28 23:49:04 Collecting data...
+2024-05-28 23:49:05 Current time: 2024-05-28 23:49:05
+2024-05-28 23:49:05 Started Fetching data from binance
+2024-05-28 23:49:05 Fetching data from Binance API...
+2024-05-28 23:49:05 Fetched price: 68184.0
+2024-05-28 23:49:05 Ending Fetching data from binance
+2024-05-28 23:49:05 Latest BTC Price: 68184.00 USDT
+2024-05-28 23:49:05 Current length of price history: 12
+2024-05-28 23:49:05 Price history length: 12 and prediction days: 60
+2024-05-28 23:49:05 Collecting data...
+2024-05-28 23:49:06 Current time: 2024-05-28 23:49:06
+2024-05-28 23:49:06 Started Fetching data from binance
+2024-05-28 23:49:06 Fetching data from Binance API...
+2024-05-28 23:49:07 Fetched price: 68184.0
+2024-05-28 23:49:07 Ending Fetching data from binance
+2024-05-28 23:49:07 Latest BTC Price: 68184.00 USDT
+2024-05-28 23:49:07 Current length of price history: 13
+2024-05-28 23:49:07 Price history length: 13 and prediction days: 60
+2024-05-28 23:49:07 Collecting data...
+2024-05-28 23:49:08 Current time: 2024-05-28 23:49:08
+2024-05-28 23:49:08 Started Fetching data from binance
+2024-05-28 23:49:08 Fetching data from Binance API...
+2024-05-28 23:49:09 Fetched price: 68184.0
+2024-05-28 23:49:09 Ending Fetching data from binance
+2024-05-28 23:49:09 Latest BTC Price: 68184.00 USDT
+2024-05-28 23:49:09 Current length of price history: 14
+2024-05-28 23:49:09 Price history length: 14 and prediction days: 60
+2024-05-28 23:49:09 Collecting data...
+2024-05-28 23:49:10 Current time: 2024-05-28 23:49:10
+2024-05-28 23:49:10 Started Fetching data from binance
+2024-05-28 23:49:10 Fetching data from Binance API...
+2024-05-28 23:49:10 Fetched price: 68184.0
+2024-05-28 23:49:10 Ending Fetching data from binance
+2024-05-28 23:49:10 Latest BTC Price: 68184.00 USDT
+2024-05-28 23:49:10 Current length of price history: 15
+2024-05-28 23:49:10 Price history length: 15 and prediction days: 60
+2024-05-28 23:49:10 Collecting data...
+2024-05-28 23:49:11 Current time: 2024-05-28 23:49:11
+2024-05-28 23:49:11 Started Fetching data from binance
+2024-05-28 23:49:11 Fetching data from Binance API...
+2024-05-28 23:49:12 Fetched price: 68185.44
+2024-05-28 23:49:12 Ending Fetching data from binance
+2024-05-28 23:49:12 Latest BTC Price: 68185.44 USDT
+2024-05-28 23:49:12 Current length of price history: 16
+2024-05-28 23:49:12 Price history length: 16 and prediction days: 60
+2024-05-28 23:49:12 Collecting data...
+2024-05-28 23:49:13 Current time: 2024-05-28 23:49:13
+2024-05-28 23:49:13 Started Fetching data from binance
+2024-05-28 23:49:13 Fetching data from Binance API...
+2024-05-28 23:49:13 Fetched price: 68185.43
+2024-05-28 23:49:13 Ending Fetching data from binance
+2024-05-28 23:49:13 Latest BTC Price: 68185.43 USDT
+2024-05-28 23:49:13 Current length of price history: 17
+2024-05-28 23:49:13 Price history length: 17 and prediction days: 60
+2024-05-28 23:49:13 Collecting data...
+2024-05-28 23:49:14 Current time: 2024-05-28 23:49:14
+2024-05-28 23:49:14 Started Fetching data from binance
+2024-05-28 23:49:14 Fetching data from Binance API...
+2024-05-28 23:49:14 Fetched price: 68187.43
+2024-05-28 23:49:14 Ending Fetching data from binance
+2024-05-28 23:49:14 Latest BTC Price: 68187.43 USDT
+2024-05-28 23:49:14 Current length of price history: 18
+2024-05-28 23:49:14 Price history length: 18 and prediction days: 60
+2024-05-28 23:49:14 Collecting data...
+2024-05-28 23:49:15 Current time: 2024-05-28 23:49:15
+2024-05-28 23:49:15 Started Fetching data from binance
+2024-05-28 23:49:15 Fetching data from Binance API...
+2024-05-28 23:49:16 Fetched price: 68187.43
+2024-05-28 23:49:16 Ending Fetching data from binance
+2024-05-28 23:49:16 Latest BTC Price: 68187.43 USDT
+2024-05-28 23:49:16 Current length of price history: 19
+2024-05-28 23:49:16 Price history length: 19 and prediction days: 60
+2024-05-28 23:49:16 Collecting data...
+2024-05-28 23:49:17 Current time: 2024-05-28 23:49:17
+2024-05-28 23:49:17 Started Fetching data from binance
+2024-05-28 23:49:17 Fetching data from Binance API...
+2024-05-28 23:49:17 Fetched price: 68187.44
+2024-05-28 23:49:17 Ending Fetching data from binance
+2024-05-28 23:49:17 Latest BTC Price: 68187.44 USDT
+2024-05-28 23:49:17 Current length of price history: 20
+2024-05-28 23:49:17 Price history length: 20 and prediction days: 60
+2024-05-28 23:49:17 Collecting data...
+2024-05-28 23:49:18 Current time: 2024-05-28 23:49:18
+2024-05-28 23:49:18 Started Fetching data from binance
+2024-05-28 23:49:18 Fetching data from Binance API...
+2024-05-28 23:49:19 Fetched price: 68187.43
+2024-05-28 23:49:19 Ending Fetching data from binance
+2024-05-28 23:49:19 Latest BTC Price: 68187.43 USDT
+2024-05-28 23:49:19 Current length of price history: 21
+2024-05-28 23:49:19 Price history length: 21 and prediction days: 60
+2024-05-28 23:49:19 Collecting data...
+2024-05-28 23:49:20 START EXECUTION
+2024-05-28 23:49:20 Current time: 2024-05-28 23:49:20
+2024-05-28 23:49:20 Started Fetching data from binance
+2024-05-28 23:49:20 Fetching data from Binance API...
+2024-05-28 23:49:20 Fetched price: 68191.28
+2024-05-28 23:49:20 Ending Fetching data from binance
+2024-05-28 23:49:20 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:20 Current length of price history: 22
+2024-05-28 23:49:20 Price history length: 22 and prediction days: 60
+2024-05-28 23:49:20 Collecting data...
+2024-05-28 23:49:20 Current time: 2024-05-28 23:49:20
+2024-05-28 23:49:20 Started Fetching data from binance
+2024-05-28 23:49:20 Fetching data from Binance API...
+2024-05-28 23:49:21 Fetched price: 68191.28
+2024-05-28 23:49:21 Ending Fetching data from binance
+2024-05-28 23:49:21 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:21 Current length of price history: 1
+2024-05-28 23:49:21 Price history length: 1 and prediction days: 60
+2024-05-28 23:49:21 Collecting data...
+2024-05-28 23:49:21 Current time: 2024-05-28 23:49:21
+2024-05-28 23:49:21 Started Fetching data from binance
+2024-05-28 23:49:21 Fetching data from Binance API...
+2024-05-28 23:49:22 Fetched price: 68191.28
+2024-05-28 23:49:22 Ending Fetching data from binance
+2024-05-28 23:49:22 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:22 Current length of price history: 23
+2024-05-28 23:49:22 Price history length: 23 and prediction days: 60
+2024-05-28 23:49:22 Collecting data...
+2024-05-28 23:49:22 Current time: 2024-05-28 23:49:22
+2024-05-28 23:49:22 Started Fetching data from binance
+2024-05-28 23:49:22 Ending Fetching data from binance
+2024-05-28 23:49:22 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:22 Current length of price history: 2
+2024-05-28 23:49:22 Price history length: 2 and prediction days: 60
+2024-05-28 23:49:22 Collecting data...
+2024-05-28 23:49:23 Current time: 2024-05-28 23:49:23
+2024-05-28 23:49:23 Started Fetching data from binance
+2024-05-28 23:49:23 Fetching data from Binance API...
+2024-05-28 23:49:23 Current time: 2024-05-28 23:49:23
+2024-05-28 23:49:23 Started Fetching data from binance
+2024-05-28 23:49:23 Ending Fetching data from binance
+2024-05-28 23:49:23 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:23 Current length of price history: 3
+2024-05-28 23:49:23 Price history length: 3 and prediction days: 60
+2024-05-28 23:49:23 Collecting data...
+2024-05-28 23:49:23 Fetched price: 68191.28
+2024-05-28 23:49:23 Ending Fetching data from binance
+2024-05-28 23:49:23 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:23 Current length of price history: 24
+2024-05-28 23:49:23 Price history length: 24 and prediction days: 60
+2024-05-28 23:49:23 Collecting data...
+2024-05-28 23:49:24 Current time: 2024-05-28 23:49:24
+2024-05-28 23:49:24 Started Fetching data from binance
+2024-05-28 23:49:24 Ending Fetching data from binance
+2024-05-28 23:49:24 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:24 Current length of price history: 4
+2024-05-28 23:49:24 Price history length: 4 and prediction days: 60
+2024-05-28 23:49:24 Collecting data...
+2024-05-28 23:49:24 Current time: 2024-05-28 23:49:24
+2024-05-28 23:49:24 Started Fetching data from binance
+2024-05-28 23:49:24 Fetching data from Binance API...
+2024-05-28 23:49:24 Fetched price: 68191.28
+2024-05-28 23:49:24 Ending Fetching data from binance
+2024-05-28 23:49:24 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:24 Current length of price history: 25
+2024-05-28 23:49:24 Price history length: 25 and prediction days: 60
+2024-05-28 23:49:24 Collecting data...
+2024-05-28 23:49:25 Current time: 2024-05-28 23:49:25
+2024-05-28 23:49:25 Started Fetching data from binance
+2024-05-28 23:49:25 Ending Fetching data from binance
+2024-05-28 23:49:25 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:25 Current length of price history: 5
+2024-05-28 23:49:25 Price history length: 5 and prediction days: 60
+2024-05-28 23:49:25 Collecting data...
+2024-05-28 23:49:26 Current time: 2024-05-28 23:49:26
+2024-05-28 23:49:26 Started Fetching data from binance
+2024-05-28 23:49:26 Fetching data from Binance API...
+2024-05-28 23:49:26 Current time: 2024-05-28 23:49:26
+2024-05-28 23:49:26 Started Fetching data from binance
+2024-05-28 23:49:26 Ending Fetching data from binance
+2024-05-28 23:49:26 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:26 Current length of price history: 6
+2024-05-28 23:49:26 Price history length: 6 and prediction days: 60
+2024-05-28 23:49:26 Collecting data...
+2024-05-28 23:49:26 Fetched price: 68191.29
+2024-05-28 23:49:26 Ending Fetching data from binance
+2024-05-28 23:49:26 Latest BTC Price: 68191.29 USDT
+2024-05-28 23:49:26 Current length of price history: 26
+2024-05-28 23:49:26 Price history length: 26 and prediction days: 60
+2024-05-28 23:49:26 Collecting data...
+2024-05-28 23:49:27 Current time: 2024-05-28 23:49:27
+2024-05-28 23:49:27 Started Fetching data from binance
+2024-05-28 23:49:27 Ending Fetching data from binance
+2024-05-28 23:49:27 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:27 Current length of price history: 7
+2024-05-28 23:49:27 Price history length: 7 and prediction days: 60
+2024-05-28 23:49:27 Collecting data...
+2024-05-28 23:49:27 Current time: 2024-05-28 23:49:27
+2024-05-28 23:49:27 Started Fetching data from binance
+2024-05-28 23:49:27 Fetching data from Binance API...
+2024-05-28 23:49:27 Fetched price: 68191.28
+2024-05-28 23:49:27 Ending Fetching data from binance
+2024-05-28 23:49:27 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:27 Current length of price history: 27
+2024-05-28 23:49:27 Price history length: 27 and prediction days: 60
+2024-05-28 23:49:27 Collecting data...
+2024-05-28 23:49:28 Current time: 2024-05-28 23:49:28
+2024-05-28 23:49:28 Started Fetching data from binance
+2024-05-28 23:49:28 Ending Fetching data from binance
+2024-05-28 23:49:28 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:28 Current length of price history: 8
+2024-05-28 23:49:28 Price history length: 8 and prediction days: 60
+2024-05-28 23:49:28 Collecting data...
+2024-05-28 23:49:28 Current time: 2024-05-28 23:49:28
+2024-05-28 23:49:28 Started Fetching data from binance
+2024-05-28 23:49:28 Fetching data from Binance API...
+2024-05-28 23:49:29 Current time: 2024-05-28 23:49:29
+2024-05-28 23:49:29 Started Fetching data from binance
+2024-05-28 23:49:29 Ending Fetching data from binance
+2024-05-28 23:49:29 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:29 Current length of price history: 9
+2024-05-28 23:49:29 Price history length: 9 and prediction days: 60
+2024-05-28 23:49:29 Collecting data...
+2024-05-28 23:49:29 Fetched price: 68191.28
+2024-05-28 23:49:29 Ending Fetching data from binance
+2024-05-28 23:49:29 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:29 Current length of price history: 28
+2024-05-28 23:49:29 Price history length: 28 and prediction days: 60
+2024-05-28 23:49:29 Collecting data...
+2024-05-28 23:49:30 Current time: 2024-05-28 23:49:30
+2024-05-28 23:49:30 Started Fetching data from binance
+2024-05-28 23:49:30 Ending Fetching data from binance
+2024-05-28 23:49:30 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:30 Current length of price history: 10
+2024-05-28 23:49:30 Price history length: 10 and prediction days: 60
+2024-05-28 23:49:30 Collecting data...
+2024-05-28 23:49:30 Current time: 2024-05-28 23:49:30
+2024-05-28 23:49:30 Started Fetching data from binance
+2024-05-28 23:49:30 Fetching data from Binance API...
+2024-05-28 23:49:30 Fetched price: 68191.28
+2024-05-28 23:49:30 Ending Fetching data from binance
+2024-05-28 23:49:30 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:30 Current length of price history: 29
+2024-05-28 23:49:30 Price history length: 29 and prediction days: 60
+2024-05-28 23:49:30 Collecting data...
+2024-05-28 23:49:31 Current time: 2024-05-28 23:49:31
+2024-05-28 23:49:31 Started Fetching data from binance
+2024-05-28 23:49:31 Ending Fetching data from binance
+2024-05-28 23:49:31 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:31 Current length of price history: 11
+2024-05-28 23:49:31 Price history length: 11 and prediction days: 60
+2024-05-28 23:49:31 Collecting data...
+2024-05-28 23:49:31 Current time: 2024-05-28 23:49:31
+2024-05-28 23:49:31 Started Fetching data from binance
+2024-05-28 23:49:31 Fetching data from Binance API...
+2024-05-28 23:49:32 Fetched price: 68191.28
+2024-05-28 23:49:32 Ending Fetching data from binance
+2024-05-28 23:49:32 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:32 Current length of price history: 30
+2024-05-28 23:49:32 Price history length: 30 and prediction days: 60
+2024-05-28 23:49:32 Collecting data...
+2024-05-28 23:49:32 Current time: 2024-05-28 23:49:32
+2024-05-28 23:49:32 Started Fetching data from binance
+2024-05-28 23:49:32 Ending Fetching data from binance
+2024-05-28 23:49:32 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:32 Current length of price history: 12
+2024-05-28 23:49:32 Price history length: 12 and prediction days: 60
+2024-05-28 23:49:32 Collecting data...
+2024-05-28 23:49:33 Current time: 2024-05-28 23:49:33
+2024-05-28 23:49:33 Started Fetching data from binance
+2024-05-28 23:49:33 Fetching data from Binance API...
+2024-05-28 23:49:33 Current time: 2024-05-28 23:49:33
+2024-05-28 23:49:33 Started Fetching data from binance
+2024-05-28 23:49:33 Ending Fetching data from binance
+2024-05-28 23:49:33 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:33 Current length of price history: 13
+2024-05-28 23:49:33 Price history length: 13 and prediction days: 60
+2024-05-28 23:49:33 Collecting data...
+2024-05-28 23:49:33 Fetched price: 68191.29
+2024-05-28 23:49:33 Ending Fetching data from binance
+2024-05-28 23:49:33 Latest BTC Price: 68191.29 USDT
+2024-05-28 23:49:33 Current length of price history: 31
+2024-05-28 23:49:33 Price history length: 31 and prediction days: 60
+2024-05-28 23:49:33 Collecting data...
+2024-05-28 23:49:34 Current time: 2024-05-28 23:49:34
+2024-05-28 23:49:34 Started Fetching data from binance
+2024-05-28 23:49:34 Ending Fetching data from binance
+2024-05-28 23:49:34 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:34 Current length of price history: 14
+2024-05-28 23:49:34 Price history length: 14 and prediction days: 60
+2024-05-28 23:49:34 Collecting data...
+2024-05-28 23:49:34 Current time: 2024-05-28 23:49:34
+2024-05-28 23:49:34 Started Fetching data from binance
+2024-05-28 23:49:34 Fetching data from Binance API...
+2024-05-28 23:49:35 Current time: 2024-05-28 23:49:35
+2024-05-28 23:49:35 Started Fetching data from binance
+2024-05-28 23:49:35 Ending Fetching data from binance
+2024-05-28 23:49:35 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:35 Current length of price history: 15
+2024-05-28 23:49:35 Price history length: 15 and prediction days: 60
+2024-05-28 23:49:35 Collecting data...
+2024-05-28 23:49:35 Fetched price: 68191.29
+2024-05-28 23:49:35 Ending Fetching data from binance
+2024-05-28 23:49:35 Latest BTC Price: 68191.29 USDT
+2024-05-28 23:49:35 Current length of price history: 32
+2024-05-28 23:49:35 Price history length: 32 and prediction days: 60
+2024-05-28 23:49:35 Collecting data...
+2024-05-28 23:49:36 Current time: 2024-05-28 23:49:36
+2024-05-28 23:49:36 Started Fetching data from binance
+2024-05-28 23:49:36 Ending Fetching data from binance
+2024-05-28 23:49:36 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:36 Current length of price history: 16
+2024-05-28 23:49:36 Price history length: 16 and prediction days: 60
+2024-05-28 23:49:36 Collecting data...
+2024-05-28 23:49:36 Current time: 2024-05-28 23:49:36
+2024-05-28 23:49:36 Started Fetching data from binance
+2024-05-28 23:49:36 Fetching data from Binance API...
+2024-05-28 23:49:36 Fetched price: 68191.29
+2024-05-28 23:49:36 Ending Fetching data from binance
+2024-05-28 23:49:36 Latest BTC Price: 68191.29 USDT
+2024-05-28 23:49:36 Current length of price history: 33
+2024-05-28 23:49:36 Price history length: 33 and prediction days: 60
+2024-05-28 23:49:36 Collecting data...
+2024-05-28 23:49:37 Current time: 2024-05-28 23:49:37
+2024-05-28 23:49:37 Started Fetching data from binance
+2024-05-28 23:49:37 Ending Fetching data from binance
+2024-05-28 23:49:37 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:37 Current length of price history: 17
+2024-05-28 23:49:37 Price history length: 17 and prediction days: 60
+2024-05-28 23:49:37 Collecting data...
+2024-05-28 23:49:37 Current time: 2024-05-28 23:49:37
+2024-05-28 23:49:37 Started Fetching data from binance
+2024-05-28 23:49:37 Fetching data from Binance API...
+2024-05-28 23:49:38 Fetched price: 68191.28
+2024-05-28 23:49:38 Ending Fetching data from binance
+2024-05-28 23:49:38 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:38 Current length of price history: 34
+2024-05-28 23:49:38 Price history length: 34 and prediction days: 60
+2024-05-28 23:49:38 Collecting data...
+2024-05-28 23:49:38 Current time: 2024-05-28 23:49:38
+2024-05-28 23:49:38 Started Fetching data from binance
+2024-05-28 23:49:38 Ending Fetching data from binance
+2024-05-28 23:49:38 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:38 Current length of price history: 18
+2024-05-28 23:49:38 Price history length: 18 and prediction days: 60
+2024-05-28 23:49:38 Collecting data...
+2024-05-28 23:49:39 Current time: 2024-05-28 23:49:39
+2024-05-28 23:49:39 Started Fetching data from binance
+2024-05-28 23:49:39 Fetching data from Binance API...
+2024-05-28 23:49:39 Current time: 2024-05-28 23:49:39
+2024-05-28 23:49:39 Started Fetching data from binance
+2024-05-28 23:49:39 Ending Fetching data from binance
+2024-05-28 23:49:39 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:39 Current length of price history: 19
+2024-05-28 23:49:39 Price history length: 19 and prediction days: 60
+2024-05-28 23:49:39 Collecting data...
+2024-05-28 23:49:39 Fetched price: 68191.29
+2024-05-28 23:49:39 Ending Fetching data from binance
+2024-05-28 23:49:39 Latest BTC Price: 68191.29 USDT
+2024-05-28 23:49:39 Current length of price history: 35
+2024-05-28 23:49:39 Price history length: 35 and prediction days: 60
+2024-05-28 23:49:39 Collecting data...
+2024-05-28 23:49:40 Current time: 2024-05-28 23:49:40
+2024-05-28 23:49:40 Started Fetching data from binance
+2024-05-28 23:49:40 Ending Fetching data from binance
+2024-05-28 23:49:40 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:40 Current length of price history: 20
+2024-05-28 23:49:40 Price history length: 20 and prediction days: 60
+2024-05-28 23:49:40 Collecting data...
+2024-05-28 23:49:40 START EXECUTION
+2024-05-28 23:49:40 Current time: 2024-05-28 23:49:40
+2024-05-28 23:49:40 Started Fetching data from binance
+2024-05-28 23:49:40 Ending Fetching data from binance
+2024-05-28 23:49:40 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:40 Current length of price history: 1
+2024-05-28 23:49:40 Price history length: 1 and prediction days: 60
+2024-05-28 23:49:40 Collecting data...
+2024-05-28 23:49:40 Current time: 2024-05-28 23:49:40
+2024-05-28 23:49:40 Started Fetching data from binance
+2024-05-28 23:49:40 Fetching data from Binance API...
+2024-05-28 23:49:41 Fetched price: 68191.29
+2024-05-28 23:49:41 Ending Fetching data from binance
+2024-05-28 23:49:41 Latest BTC Price: 68191.29 USDT
+2024-05-28 23:49:41 Current length of price history: 36
+2024-05-28 23:49:41 Price history length: 36 and prediction days: 60
+2024-05-28 23:49:41 Collecting data...
+2024-05-28 23:49:41 Current time: 2024-05-28 23:49:41
+2024-05-28 23:49:41 Started Fetching data from binance
+2024-05-28 23:49:41 Ending Fetching data from binance
+2024-05-28 23:49:41 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:41 Current length of price history: 21
+2024-05-28 23:49:41 Price history length: 21 and prediction days: 60
+2024-05-28 23:49:41 Collecting data...
+2024-05-28 23:49:41 Current time: 2024-05-28 23:49:41
+2024-05-28 23:49:41 Started Fetching data from binance
+2024-05-28 23:49:41 Ending Fetching data from binance
+2024-05-28 23:49:41 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:41 Current length of price history: 2
+2024-05-28 23:49:41 Price history length: 2 and prediction days: 60
+2024-05-28 23:49:41 Collecting data...
+2024-05-28 23:49:42 Current time: 2024-05-28 23:49:42
+2024-05-28 23:49:42 Started Fetching data from binance
+2024-05-28 23:49:42 Fetching data from Binance API...
+2024-05-28 23:49:42 Current time: 2024-05-28 23:49:42
+2024-05-28 23:49:42 Started Fetching data from binance
+2024-05-28 23:49:42 Ending Fetching data from binance
+2024-05-28 23:49:42 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:42 Current length of price history: 22
+2024-05-28 23:49:42 Price history length: 22 and prediction days: 60
+2024-05-28 23:49:42 Collecting data...
+2024-05-28 23:49:42 Fetched price: 68191.29
+2024-05-28 23:49:42 Ending Fetching data from binance
+2024-05-28 23:49:42 Latest BTC Price: 68191.29 USDT
+2024-05-28 23:49:42 Current length of price history: 37
+2024-05-28 23:49:42 Price history length: 37 and prediction days: 60
+2024-05-28 23:49:42 Collecting data...
+2024-05-28 23:49:42 Current time: 2024-05-28 23:49:42
+2024-05-28 23:49:42 Started Fetching data from binance
+2024-05-28 23:49:42 Ending Fetching data from binance
+2024-05-28 23:49:42 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:42 Current length of price history: 3
+2024-05-28 23:49:42 Price history length: 3 and prediction days: 60
+2024-05-28 23:49:42 Collecting data...
+2024-05-28 23:49:43 Current time: 2024-05-28 23:49:43
+2024-05-28 23:49:43 Started Fetching data from binance
+2024-05-28 23:49:43 Ending Fetching data from binance
+2024-05-28 23:49:43 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:43 Current length of price history: 23
+2024-05-28 23:49:43 Price history length: 23 and prediction days: 60
+2024-05-28 23:49:43 Collecting data...
+2024-05-28 23:49:43 Current time: 2024-05-28 23:49:43
+2024-05-28 23:49:43 Started Fetching data from binance
+2024-05-28 23:49:43 Fetching data from Binance API...
+2024-05-28 23:49:43 Current time: 2024-05-28 23:49:43
+2024-05-28 23:49:43 Started Fetching data from binance
+2024-05-28 23:49:43 Ending Fetching data from binance
+2024-05-28 23:49:43 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:43 Current length of price history: 4
+2024-05-28 23:49:43 Price history length: 4 and prediction days: 60
+2024-05-28 23:49:43 Collecting data...
+2024-05-28 23:49:43 Fetched price: 68199.5
+2024-05-28 23:49:43 Ending Fetching data from binance
+2024-05-28 23:49:43 Latest BTC Price: 68199.50 USDT
+2024-05-28 23:49:43 Current length of price history: 38
+2024-05-28 23:49:43 Price history length: 38 and prediction days: 60
+2024-05-28 23:49:43 Collecting data...
+2024-05-28 23:49:44 Current time: 2024-05-28 23:49:44
+2024-05-28 23:49:44 Started Fetching data from binance
+2024-05-28 23:49:44 Ending Fetching data from binance
+2024-05-28 23:49:44 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:44 Current length of price history: 24
+2024-05-28 23:49:44 Price history length: 24 and prediction days: 60
+2024-05-28 23:49:44 Collecting data...
+2024-05-28 23:49:44 Current time: 2024-05-28 23:49:44
+2024-05-28 23:49:44 Started Fetching data from binance
+2024-05-28 23:49:44 Ending Fetching data from binance
+2024-05-28 23:49:44 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:44 Current length of price history: 5
+2024-05-28 23:49:44 Price history length: 5 and prediction days: 60
+2024-05-28 23:49:44 Collecting data...
+2024-05-28 23:49:44 Current time: 2024-05-28 23:49:44
+2024-05-28 23:49:44 Started Fetching data from binance
+2024-05-28 23:49:44 Fetching data from Binance API...
+2024-05-28 23:49:45 Fetched price: 68204.99
+2024-05-28 23:49:45 Ending Fetching data from binance
+2024-05-28 23:49:45 Latest BTC Price: 68204.99 USDT
+2024-05-28 23:49:45 Current length of price history: 39
+2024-05-28 23:49:45 Price history length: 39 and prediction days: 60
+2024-05-28 23:49:45 Collecting data...
+2024-05-28 23:49:45 Current time: 2024-05-28 23:49:45
+2024-05-28 23:49:45 Started Fetching data from binance
+2024-05-28 23:49:45 Ending Fetching data from binance
+2024-05-28 23:49:45 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:45 Current length of price history: 25
+2024-05-28 23:49:45 Price history length: 25 and prediction days: 60
+2024-05-28 23:49:45 Collecting data...
+2024-05-28 23:49:45 Current time: 2024-05-28 23:49:45
+2024-05-28 23:49:45 Started Fetching data from binance
+2024-05-28 23:49:45 Ending Fetching data from binance
+2024-05-28 23:49:45 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:45 Current length of price history: 6
+2024-05-28 23:49:45 Price history length: 6 and prediction days: 60
+2024-05-28 23:49:45 Collecting data...
+2024-05-28 23:49:46 Current time: 2024-05-28 23:49:46
+2024-05-28 23:49:46 Started Fetching data from binance
+2024-05-28 23:49:46 Fetching data from Binance API...
+2024-05-28 23:49:46 Current time: 2024-05-28 23:49:46
+2024-05-28 23:49:46 Started Fetching data from binance
+2024-05-28 23:49:46 Ending Fetching data from binance
+2024-05-28 23:49:46 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:46 Current length of price history: 26
+2024-05-28 23:49:46 Price history length: 26 and prediction days: 60
+2024-05-28 23:49:46 Collecting data...
+2024-05-28 23:49:46 Fetched price: 68204.99
+2024-05-28 23:49:46 Ending Fetching data from binance
+2024-05-28 23:49:46 Latest BTC Price: 68204.99 USDT
+2024-05-28 23:49:46 Current length of price history: 40
+2024-05-28 23:49:46 Price history length: 40 and prediction days: 60
+2024-05-28 23:49:46 Collecting data...
+2024-05-28 23:49:46 Current time: 2024-05-28 23:49:46
+2024-05-28 23:49:46 Started Fetching data from binance
+2024-05-28 23:49:46 Ending Fetching data from binance
+2024-05-28 23:49:46 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:46 Current length of price history: 7
+2024-05-28 23:49:46 Price history length: 7 and prediction days: 60
+2024-05-28 23:49:46 Collecting data...
+2024-05-28 23:49:47 Current time: 2024-05-28 23:49:47
+2024-05-28 23:49:47 Started Fetching data from binance
+2024-05-28 23:49:47 Ending Fetching data from binance
+2024-05-28 23:49:47 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:47 Current length of price history: 27
+2024-05-28 23:49:47 Price history length: 27 and prediction days: 60
+2024-05-28 23:49:47 Collecting data...
+2024-05-28 23:49:47 Current time: 2024-05-28 23:49:47
+2024-05-28 23:49:47 Started Fetching data from binance
+2024-05-28 23:49:47 Fetching data from Binance API...
+2024-05-28 23:49:47 Current time: 2024-05-28 23:49:47
+2024-05-28 23:49:47 Started Fetching data from binance
+2024-05-28 23:49:47 Ending Fetching data from binance
+2024-05-28 23:49:47 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:47 Current length of price history: 8
+2024-05-28 23:49:47 Price history length: 8 and prediction days: 60
+2024-05-28 23:49:47 Collecting data...
+2024-05-28 23:49:47 Fetched price: 68204.99
+2024-05-28 23:49:47 Ending Fetching data from binance
+2024-05-28 23:49:47 Latest BTC Price: 68204.99 USDT
+2024-05-28 23:49:47 Current length of price history: 41
+2024-05-28 23:49:47 Price history length: 41 and prediction days: 60
+2024-05-28 23:49:47 Collecting data...
+2024-05-28 23:49:48 Current time: 2024-05-28 23:49:48
+2024-05-28 23:49:48 Started Fetching data from binance
+2024-05-28 23:49:48 Ending Fetching data from binance
+2024-05-28 23:49:48 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:48 Current length of price history: 28
+2024-05-28 23:49:48 Price history length: 28 and prediction days: 60
+2024-05-28 23:49:48 Collecting data...
+2024-05-28 23:49:48 Current time: 2024-05-28 23:49:48
+2024-05-28 23:49:48 Started Fetching data from binance
+2024-05-28 23:49:48 Ending Fetching data from binance
+2024-05-28 23:49:48 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:48 Current length of price history: 9
+2024-05-28 23:49:48 Price history length: 9 and prediction days: 60
+2024-05-28 23:49:48 Collecting data...
+2024-05-28 23:49:48 Current time: 2024-05-28 23:49:48
+2024-05-28 23:49:48 Started Fetching data from binance
+2024-05-28 23:49:48 Fetching data from Binance API...
+2024-05-28 23:49:49 Current time: 2024-05-28 23:49:49
+2024-05-28 23:49:49 Started Fetching data from binance
+2024-05-28 23:49:49 Ending Fetching data from binance
+2024-05-28 23:49:49 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:49 Fetched price: 68205.0
+2024-05-28 23:49:49 Current length of price history: 29
+2024-05-28 23:49:49 Price history length: 29 and prediction days: 60
+2024-05-28 23:49:49 Collecting data...
+2024-05-28 23:49:49 Ending Fetching data from binance
+2024-05-28 23:49:49 Latest BTC Price: 68205.00 USDT
+2024-05-28 23:49:49 Current length of price history: 42
+2024-05-28 23:49:49 Price history length: 42 and prediction days: 60
+2024-05-28 23:49:49 Collecting data...
+2024-05-28 23:49:49 Current time: 2024-05-28 23:49:49
+2024-05-28 23:49:49 Started Fetching data from binance
+2024-05-28 23:49:49 Ending Fetching data from binance
+2024-05-28 23:49:49 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:49 Current length of price history: 10
+2024-05-28 23:49:49 Price history length: 10 and prediction days: 60
+2024-05-28 23:49:49 Collecting data...
+2024-05-28 23:49:50 Current time: 2024-05-28 23:49:50
+2024-05-28 23:49:50 Started Fetching data from binance
+2024-05-28 23:49:50 Ending Fetching data from binance
+2024-05-28 23:49:50 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:50 Current length of price history: 30
+2024-05-28 23:49:50 Price history length: 30 and prediction days: 60
+2024-05-28 23:49:50 Collecting data...
+2024-05-28 23:49:50 Current time: 2024-05-28 23:49:50
+2024-05-28 23:49:50 Started Fetching data from binance
+2024-05-28 23:49:50 Fetching data from Binance API...
+2024-05-28 23:49:50 Current time: 2024-05-28 23:49:50
+2024-05-28 23:49:50 Started Fetching data from binance
+2024-05-28 23:49:50 Ending Fetching data from binance
+2024-05-28 23:49:50 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:50 Current length of price history: 11
+2024-05-28 23:49:50 Price history length: 11 and prediction days: 60
+2024-05-28 23:49:50 Collecting data...
+2024-05-28 23:49:51 Fetched price: 68204.99
+2024-05-28 23:49:51 Ending Fetching data from binance
+2024-05-28 23:49:51 Latest BTC Price: 68204.99 USDT
+2024-05-28 23:49:51 Current length of price history: 43
+2024-05-28 23:49:51 Price history length: 43 and prediction days: 60
+2024-05-28 23:49:51 Collecting data...
+2024-05-28 23:49:51 Current time: 2024-05-28 23:49:51
+2024-05-28 23:49:51 Started Fetching data from binance
+2024-05-28 23:49:51 Ending Fetching data from binance
+2024-05-28 23:49:51 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:51 Current length of price history: 31
+2024-05-28 23:49:51 Price history length: 31 and prediction days: 60
+2024-05-28 23:49:51 Collecting data...
+2024-05-28 23:49:51 Current time: 2024-05-28 23:49:51
+2024-05-28 23:49:51 Started Fetching data from binance
+2024-05-28 23:49:51 Ending Fetching data from binance
+2024-05-28 23:49:51 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:51 Current length of price history: 12
+2024-05-28 23:49:51 Price history length: 12 and prediction days: 60
+2024-05-28 23:49:51 Collecting data...
+2024-05-28 23:49:52 Current time: 2024-05-28 23:49:52
+2024-05-28 23:49:52 Started Fetching data from binance
+2024-05-28 23:49:52 Fetching data from Binance API...
+2024-05-28 23:49:52 Current time: 2024-05-28 23:49:52
+2024-05-28 23:49:52 Started Fetching data from binance
+2024-05-28 23:49:52 Ending Fetching data from binance
+2024-05-28 23:49:52 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:52 Current length of price history: 32
+2024-05-28 23:49:52 Price history length: 32 and prediction days: 60
+2024-05-28 23:49:52 Collecting data...
+2024-05-28 23:49:52 Fetched price: 68205.0
+2024-05-28 23:49:52 Ending Fetching data from binance
+2024-05-28 23:49:52 Latest BTC Price: 68205.00 USDT
+2024-05-28 23:49:52 Current length of price history: 44
+2024-05-28 23:49:52 Price history length: 44 and prediction days: 60
+2024-05-28 23:49:52 Collecting data...
+2024-05-28 23:49:52 Current time: 2024-05-28 23:49:52
+2024-05-28 23:49:52 Started Fetching data from binance
+2024-05-28 23:49:52 Ending Fetching data from binance
+2024-05-28 23:49:52 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:52 Current length of price history: 13
+2024-05-28 23:49:52 Price history length: 13 and prediction days: 60
+2024-05-28 23:49:52 Collecting data...
+2024-05-28 23:49:53 Current time: 2024-05-28 23:49:53
+2024-05-28 23:49:53 Started Fetching data from binance
+2024-05-28 23:49:53 Ending Fetching data from binance
+2024-05-28 23:49:53 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:53 Current length of price history: 33
+2024-05-28 23:49:53 Price history length: 33 and prediction days: 60
+2024-05-28 23:49:53 Collecting data...
+2024-05-28 23:49:53 Current time: 2024-05-28 23:49:53
+2024-05-28 23:49:53 Started Fetching data from binance
+2024-05-28 23:49:53 Fetching data from Binance API...
+2024-05-28 23:49:53 Current time: 2024-05-28 23:49:53
+2024-05-28 23:49:53 Started Fetching data from binance
+2024-05-28 23:49:53 Ending Fetching data from binance
+2024-05-28 23:49:53 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:53 Current length of price history: 14
+2024-05-28 23:49:53 Price history length: 14 and prediction days: 60
+2024-05-28 23:49:53 Collecting data...
+2024-05-28 23:49:54 Fetched price: 68204.99
+2024-05-28 23:49:54 Ending Fetching data from binance
+2024-05-28 23:49:54 Latest BTC Price: 68204.99 USDT
+2024-05-28 23:49:54 Current length of price history: 45
+2024-05-28 23:49:54 Price history length: 45 and prediction days: 60
+2024-05-28 23:49:54 Collecting data...
+2024-05-28 23:49:54 Current time: 2024-05-28 23:49:54
+2024-05-28 23:49:54 Started Fetching data from binance
+2024-05-28 23:49:54 Ending Fetching data from binance
+2024-05-28 23:49:54 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:54 Current length of price history: 34
+2024-05-28 23:49:54 Price history length: 34 and prediction days: 60
+2024-05-28 23:49:54 Collecting data...
+2024-05-28 23:49:54 Current time: 2024-05-28 23:49:54
+2024-05-28 23:49:54 Started Fetching data from binance
+2024-05-28 23:49:54 Ending Fetching data from binance
+2024-05-28 23:49:54 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:54 Current length of price history: 15
+2024-05-28 23:49:54 Price history length: 15 and prediction days: 60
+2024-05-28 23:49:54 Collecting data...
+2024-05-28 23:49:55 Current time: 2024-05-28 23:49:55
+2024-05-28 23:49:55 Started Fetching data from binance
+2024-05-28 23:49:55 Fetching data from Binance API...
+2024-05-28 23:49:55 Current time: 2024-05-28 23:49:55
+2024-05-28 23:49:55 Started Fetching data from binance
+2024-05-28 23:49:55 Ending Fetching data from binance
+2024-05-28 23:49:55 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:55 Current length of price history: 35
+2024-05-28 23:49:55 Price history length: 35 and prediction days: 60
+2024-05-28 23:49:55 Collecting data...
+2024-05-28 23:49:55 Fetched price: 68207.76
+2024-05-28 23:49:55 Ending Fetching data from binance
+2024-05-28 23:49:55 Latest BTC Price: 68207.76 USDT
+2024-05-28 23:49:55 Current length of price history: 46
+2024-05-28 23:49:55 Price history length: 46 and prediction days: 60
+2024-05-28 23:49:55 Collecting data...
+2024-05-28 23:49:55 Current time: 2024-05-28 23:49:55
+2024-05-28 23:49:55 Started Fetching data from binance
+2024-05-28 23:49:55 Ending Fetching data from binance
+2024-05-28 23:49:55 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:55 Current length of price history: 16
+2024-05-28 23:49:55 Price history length: 16 and prediction days: 60
+2024-05-28 23:49:55 Collecting data...
+2024-05-28 23:49:56 Current time: 2024-05-28 23:49:56
+2024-05-28 23:49:56 Started Fetching data from binance
+2024-05-28 23:49:56 Ending Fetching data from binance
+2024-05-28 23:49:56 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:56 Current length of price history: 36
+2024-05-28 23:49:56 Price history length: 36 and prediction days: 60
+2024-05-28 23:49:56 Collecting data...
+2024-05-28 23:49:56 Current time: 2024-05-28 23:49:56
+2024-05-28 23:49:56 Started Fetching data from binance
+2024-05-28 23:49:56 Fetching data from Binance API...
+2024-05-28 23:49:56 Current time: 2024-05-28 23:49:56
+2024-05-28 23:49:56 Started Fetching data from binance
+2024-05-28 23:49:56 Ending Fetching data from binance
+2024-05-28 23:49:56 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:56 Current length of price history: 17
+2024-05-28 23:49:56 Price history length: 17 and prediction days: 60
+2024-05-28 23:49:56 Collecting data...
+2024-05-28 23:49:56 Fetched price: 68207.75
+2024-05-28 23:49:56 Ending Fetching data from binance
+2024-05-28 23:49:56 Latest BTC Price: 68207.75 USDT
+2024-05-28 23:49:56 Current length of price history: 47
+2024-05-28 23:49:56 Price history length: 47 and prediction days: 60
+2024-05-28 23:49:56 Collecting data...
+2024-05-28 23:49:57 Current time: 2024-05-28 23:49:57
+2024-05-28 23:49:57 Started Fetching data from binance
+2024-05-28 23:49:57 Ending Fetching data from binance
+2024-05-28 23:49:57 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:57 Current length of price history: 37
+2024-05-28 23:49:57 Price history length: 37 and prediction days: 60
+2024-05-28 23:49:57 Collecting data...
+2024-05-28 23:49:57 Current time: 2024-05-28 23:49:57
+2024-05-28 23:49:57 Started Fetching data from binance
+2024-05-28 23:49:57 Ending Fetching data from binance
+2024-05-28 23:49:57 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:57 Current length of price history: 18
+2024-05-28 23:49:57 Price history length: 18 and prediction days: 60
+2024-05-28 23:49:57 Collecting data...
+2024-05-28 23:49:57 Current time: 2024-05-28 23:49:57
+2024-05-28 23:49:57 Started Fetching data from binance
+2024-05-28 23:49:57 Fetching data from Binance API...
+2024-05-28 23:49:58 Fetched price: 68207.75
+2024-05-28 23:49:58 Current time: 2024-05-28 23:49:58
+2024-05-28 23:49:58 Started Fetching data from binance
+2024-05-28 23:49:58 Ending Fetching data from binance
+2024-05-28 23:49:58 Latest BTC Price: 68207.75 USDT
+2024-05-28 23:49:58 Current length of price history: 48
+2024-05-28 23:49:58 Price history length: 48 and prediction days: 60
+2024-05-28 23:49:58 Collecting data...
+2024-05-28 23:49:58 Ending Fetching data from binance
+2024-05-28 23:49:58 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:58 Current length of price history: 38
+2024-05-28 23:49:58 Price history length: 38 and prediction days: 60
+2024-05-28 23:49:58 Collecting data...
+2024-05-28 23:49:58 Current time: 2024-05-28 23:49:58
+2024-05-28 23:49:58 Started Fetching data from binance
+2024-05-28 23:49:58 Ending Fetching data from binance
+2024-05-28 23:49:58 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:58 Current length of price history: 19
+2024-05-28 23:49:58 Price history length: 19 and prediction days: 60
+2024-05-28 23:49:58 Collecting data...
+2024-05-28 23:49:59 Current time: 2024-05-28 23:49:59
+2024-05-28 23:49:59 Started Fetching data from binance
+2024-05-28 23:49:59 Fetching data from Binance API...
+2024-05-28 23:49:59 Current time: 2024-05-28 23:49:59
+2024-05-28 23:49:59 Started Fetching data from binance
+2024-05-28 23:49:59 Ending Fetching data from binance
+2024-05-28 23:49:59 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:59 Current length of price history: 39
+2024-05-28 23:49:59 Price history length: 39 and prediction days: 60
+2024-05-28 23:49:59 Collecting data...
+2024-05-28 23:49:59 Current time: 2024-05-28 23:49:59
+2024-05-28 23:49:59 Started Fetching data from binance
+2024-05-28 23:49:59 Ending Fetching data from binance
+2024-05-28 23:49:59 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:49:59 Current length of price history: 20
+2024-05-28 23:49:59 Price history length: 20 and prediction days: 60
+2024-05-28 23:49:59 Collecting data...
+2024-05-28 23:49:59 Fetched price: 68207.75
+2024-05-28 23:49:59 Ending Fetching data from binance
+2024-05-28 23:49:59 Latest BTC Price: 68207.75 USDT
+2024-05-28 23:49:59 Current length of price history: 49
+2024-05-28 23:49:59 Price history length: 49 and prediction days: 60
+2024-05-28 23:49:59 Collecting data...
+2024-05-28 23:50:00 Current time: 2024-05-28 23:50:00
+2024-05-28 23:50:00 Started Fetching data from binance
+2024-05-28 23:50:00 Ending Fetching data from binance
+2024-05-28 23:50:00 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:00 Current length of price history: 40
+2024-05-28 23:50:00 Price history length: 40 and prediction days: 60
+2024-05-28 23:50:00 Collecting data...
+2024-05-28 23:50:00 Current time: 2024-05-28 23:50:00
+2024-05-28 23:50:00 Started Fetching data from binance
+2024-05-28 23:50:00 Ending Fetching data from binance
+2024-05-28 23:50:00 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:00 Current length of price history: 21
+2024-05-28 23:50:00 Price history length: 21 and prediction days: 60
+2024-05-28 23:50:00 Collecting data...
+2024-05-28 23:50:00 Current time: 2024-05-28 23:50:00
+2024-05-28 23:50:00 Started Fetching data from binance
+2024-05-28 23:50:00 Fetching data from Binance API...
+2024-05-28 23:50:01 Fetched price: 68207.75
+2024-05-28 23:50:01 Ending Fetching data from binance
+2024-05-28 23:50:01 Latest BTC Price: 68207.75 USDT
+2024-05-28 23:50:01 Current length of price history: 50
+2024-05-28 23:50:01 Price history length: 50 and prediction days: 60
+2024-05-28 23:50:01 Collecting data...
+2024-05-28 23:50:01 Current time: 2024-05-28 23:50:01
+2024-05-28 23:50:01 Started Fetching data from binance
+2024-05-28 23:50:01 Ending Fetching data from binance
+2024-05-28 23:50:01 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:01 Current length of price history: 41
+2024-05-28 23:50:01 Price history length: 41 and prediction days: 60
+2024-05-28 23:50:01 Collecting data...
+2024-05-28 23:50:01 Current time: 2024-05-28 23:50:01
+2024-05-28 23:50:01 Started Fetching data from binance
+2024-05-28 23:50:01 Ending Fetching data from binance
+2024-05-28 23:50:01 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:01 Current length of price history: 22
+2024-05-28 23:50:01 Price history length: 22 and prediction days: 60
+2024-05-28 23:50:01 Collecting data...
+2024-05-28 23:50:02 Current time: 2024-05-28 23:50:02
+2024-05-28 23:50:02 Started Fetching data from binance
+2024-05-28 23:50:02 Fetching data from Binance API...
+2024-05-28 23:50:02 Current time: 2024-05-28 23:50:02
+2024-05-28 23:50:02 Started Fetching data from binance
+2024-05-28 23:50:02 Ending Fetching data from binance
+2024-05-28 23:50:02 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:02 Current length of price history: 42
+2024-05-28 23:50:02 Price history length: 42 and prediction days: 60
+2024-05-28 23:50:02 Collecting data...
+2024-05-28 23:50:02 Current time: 2024-05-28 23:50:02
+2024-05-28 23:50:02 Started Fetching data from binance
+2024-05-28 23:50:02 Ending Fetching data from binance
+2024-05-28 23:50:02 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:02 Current length of price history: 23
+2024-05-28 23:50:02 Price history length: 23 and prediction days: 60
+2024-05-28 23:50:02 Collecting data...
+2024-05-28 23:50:03 Fetched price: 68207.76
+2024-05-28 23:50:03 Ending Fetching data from binance
+2024-05-28 23:50:03 Latest BTC Price: 68207.76 USDT
+2024-05-28 23:50:03 Current length of price history: 51
+2024-05-28 23:50:03 Price history length: 51 and prediction days: 60
+2024-05-28 23:50:03 Collecting data...
+2024-05-28 23:50:03 Current time: 2024-05-28 23:50:03
+2024-05-28 23:50:03 Started Fetching data from binance
+2024-05-28 23:50:03 Ending Fetching data from binance
+2024-05-28 23:50:03 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:03 Current length of price history: 43
+2024-05-28 23:50:03 Price history length: 43 and prediction days: 60
+2024-05-28 23:50:03 Collecting data...
+2024-05-28 23:50:03 Current time: 2024-05-28 23:50:03
+2024-05-28 23:50:03 Started Fetching data from binance
+2024-05-28 23:50:03 Ending Fetching data from binance
+2024-05-28 23:50:03 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:03 Current length of price history: 24
+2024-05-28 23:50:03 Price history length: 24 and prediction days: 60
+2024-05-28 23:50:03 Collecting data...
+2024-05-28 23:50:04 Current time: 2024-05-28 23:50:04
+2024-05-28 23:50:04 Started Fetching data from binance
+2024-05-28 23:50:04 Fetching data from Binance API...
+2024-05-28 23:50:04 Current time: 2024-05-28 23:50:04
+2024-05-28 23:50:04 Started Fetching data from binance
+2024-05-28 23:50:04 Ending Fetching data from binance
+2024-05-28 23:50:04 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:04 Current length of price history: 44
+2024-05-28 23:50:04 Price history length: 44 and prediction days: 60
+2024-05-28 23:50:04 Collecting data...
+2024-05-28 23:50:04 Fetched price: 68207.76
+2024-05-28 23:50:04 Ending Fetching data from binance
+2024-05-28 23:50:04 Latest BTC Price: 68207.76 USDT
+2024-05-28 23:50:04 Current length of price history: 52
+2024-05-28 23:50:04 Price history length: 52 and prediction days: 60
+2024-05-28 23:50:04 Collecting data...
+2024-05-28 23:50:04 Current time: 2024-05-28 23:50:04
+2024-05-28 23:50:04 Started Fetching data from binance
+2024-05-28 23:50:04 Ending Fetching data from binance
+2024-05-28 23:50:04 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:04 Current length of price history: 25
+2024-05-28 23:50:04 Price history length: 25 and prediction days: 60
+2024-05-28 23:50:04 Collecting data...
+2024-05-28 23:50:05 Current time: 2024-05-28 23:50:05
+2024-05-28 23:50:05 Started Fetching data from binance
+2024-05-28 23:50:05 Ending Fetching data from binance
+2024-05-28 23:50:05 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:05 Current length of price history: 45
+2024-05-28 23:50:05 Price history length: 45 and prediction days: 60
+2024-05-28 23:50:05 Collecting data...
+2024-05-28 23:50:05 Current time: 2024-05-28 23:50:05
+2024-05-28 23:50:05 Started Fetching data from binance
+2024-05-28 23:50:05 Fetching data from Binance API...
+2024-05-28 23:50:05 Current time: 2024-05-28 23:50:05
+2024-05-28 23:50:05 Started Fetching data from binance
+2024-05-28 23:50:05 Ending Fetching data from binance
+2024-05-28 23:50:05 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:05 Current length of price history: 26
+2024-05-28 23:50:05 Price history length: 26 and prediction days: 60
+2024-05-28 23:50:05 Collecting data...
+2024-05-28 23:50:05 Fetched price: 68207.76
+2024-05-28 23:50:05 Ending Fetching data from binance
+2024-05-28 23:50:05 Latest BTC Price: 68207.76 USDT
+2024-05-28 23:50:05 Current length of price history: 53
+2024-05-28 23:50:05 Price history length: 53 and prediction days: 60
+2024-05-28 23:50:05 Collecting data...
+2024-05-28 23:50:06 Current time: 2024-05-28 23:50:06
+2024-05-28 23:50:06 Started Fetching data from binance
+2024-05-28 23:50:06 Ending Fetching data from binance
+2024-05-28 23:50:06 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:06 Current length of price history: 46
+2024-05-28 23:50:06 Price history length: 46 and prediction days: 60
+2024-05-28 23:50:06 Collecting data...
+2024-05-28 23:50:06 Current time: 2024-05-28 23:50:06
+2024-05-28 23:50:06 Started Fetching data from binance
+2024-05-28 23:50:06 Ending Fetching data from binance
+2024-05-28 23:50:06 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:06 Current length of price history: 27
+2024-05-28 23:50:06 Price history length: 27 and prediction days: 60
+2024-05-28 23:50:06 Collecting data...
+2024-05-28 23:50:06 Current time: 2024-05-28 23:50:06
+2024-05-28 23:50:06 Started Fetching data from binance
+2024-05-28 23:50:06 Fetching data from Binance API...
+2024-05-28 23:50:07 Fetched price: 68204.99
+2024-05-28 23:50:07 Ending Fetching data from binance
+2024-05-28 23:50:07 Latest BTC Price: 68204.99 USDT
+2024-05-28 23:50:07 Current length of price history: 54
+2024-05-28 23:50:07 Price history length: 54 and prediction days: 60
+2024-05-28 23:50:07 Collecting data...
+2024-05-28 23:50:07 Current time: 2024-05-28 23:50:07
+2024-05-28 23:50:07 Started Fetching data from binance
+2024-05-28 23:50:07 Ending Fetching data from binance
+2024-05-28 23:50:07 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:07 Current length of price history: 47
+2024-05-28 23:50:07 Price history length: 47 and prediction days: 60
+2024-05-28 23:50:07 Collecting data...
+2024-05-28 23:50:07 Current time: 2024-05-28 23:50:07
+2024-05-28 23:50:07 Started Fetching data from binance
+2024-05-28 23:50:07 Ending Fetching data from binance
+2024-05-28 23:50:07 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:07 Current length of price history: 28
+2024-05-28 23:50:07 Price history length: 28 and prediction days: 60
+2024-05-28 23:50:07 Collecting data...
+2024-05-28 23:50:08 Current time: 2024-05-28 23:50:08
+2024-05-28 23:50:08 Started Fetching data from binance
+2024-05-28 23:50:08 Fetching data from Binance API...
+2024-05-28 23:50:08 Current time: 2024-05-28 23:50:08
+2024-05-28 23:50:08 Started Fetching data from binance
+2024-05-28 23:50:08 Ending Fetching data from binance
+2024-05-28 23:50:08 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:08 Current length of price history: 48
+2024-05-28 23:50:08 Price history length: 48 and prediction days: 60
+2024-05-28 23:50:08 Collecting data...
+2024-05-28 23:50:08 Fetched price: 68204.99
+2024-05-28 23:50:08 Ending Fetching data from binance
+2024-05-28 23:50:08 Latest BTC Price: 68204.99 USDT
+2024-05-28 23:50:08 Current length of price history: 55
+2024-05-28 23:50:08 Price history length: 55 and prediction days: 60
+2024-05-28 23:50:08 Collecting data...
+2024-05-28 23:50:08 Current time: 2024-05-28 23:50:08
+2024-05-28 23:50:08 Started Fetching data from binance
+2024-05-28 23:50:08 Ending Fetching data from binance
+2024-05-28 23:50:08 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:08 Current length of price history: 29
+2024-05-28 23:50:08 Price history length: 29 and prediction days: 60
+2024-05-28 23:50:08 Collecting data...
+2024-05-28 23:50:09 Current time: 2024-05-28 23:50:09
+2024-05-28 23:50:09 Started Fetching data from binance
+2024-05-28 23:50:09 Ending Fetching data from binance
+2024-05-28 23:50:09 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:09 Current length of price history: 49
+2024-05-28 23:50:09 Price history length: 49 and prediction days: 60
+2024-05-28 23:50:09 Collecting data...
+2024-05-28 23:50:09 Current time: 2024-05-28 23:50:09
+2024-05-28 23:50:09 Started Fetching data from binance
+2024-05-28 23:50:09 Fetching data from Binance API...
+2024-05-28 23:50:09 Current time: 2024-05-28 23:50:09
+2024-05-28 23:50:09 Started Fetching data from binance
+2024-05-28 23:50:09 Ending Fetching data from binance
+2024-05-28 23:50:09 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:09 Current length of price history: 30
+2024-05-28 23:50:09 Price history length: 30 and prediction days: 60
+2024-05-28 23:50:09 Collecting data...
+2024-05-28 23:50:10 Fetched price: 68205.0
+2024-05-28 23:50:10 Ending Fetching data from binance
+2024-05-28 23:50:10 Latest BTC Price: 68205.00 USDT
+2024-05-28 23:50:10 Current length of price history: 56
+2024-05-28 23:50:10 Price history length: 56 and prediction days: 60
+2024-05-28 23:50:10 Collecting data...
+2024-05-28 23:50:10 Current time: 2024-05-28 23:50:10
+2024-05-28 23:50:10 Started Fetching data from binance
+2024-05-28 23:50:10 Ending Fetching data from binance
+2024-05-28 23:50:10 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:10 Current length of price history: 50
+2024-05-28 23:50:10 Price history length: 50 and prediction days: 60
+2024-05-28 23:50:10 Collecting data...
+2024-05-28 23:50:10 Current time: 2024-05-28 23:50:10
+2024-05-28 23:50:10 Started Fetching data from binance
+2024-05-28 23:50:10 Ending Fetching data from binance
+2024-05-28 23:50:10 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:10 Current length of price history: 31
+2024-05-28 23:50:10 Price history length: 31 and prediction days: 60
+2024-05-28 23:50:10 Collecting data...
+2024-05-28 23:50:11 Current time: 2024-05-28 23:50:11
+2024-05-28 23:50:11 Started Fetching data from binance
+2024-05-28 23:50:11 Fetching data from Binance API...
+2024-05-28 23:50:11 Fetched price: 68203.68
+2024-05-28 23:50:11 Ending Fetching data from binance
+2024-05-28 23:50:11 Latest BTC Price: 68203.68 USDT
+2024-05-28 23:50:11 Current length of price history: 57
+2024-05-28 23:50:11 Price history length: 57 and prediction days: 60
+2024-05-28 23:50:11 Collecting data...
+2024-05-28 23:50:11 Current time: 2024-05-28 23:50:11
+2024-05-28 23:50:11 Started Fetching data from binance
+2024-05-28 23:50:11 Ending Fetching data from binance
+2024-05-28 23:50:11 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:11 Current length of price history: 51
+2024-05-28 23:50:11 Price history length: 51 and prediction days: 60
+2024-05-28 23:50:11 Collecting data...
+2024-05-28 23:50:11 Current time: 2024-05-28 23:50:11
+2024-05-28 23:50:11 Started Fetching data from binance
+2024-05-28 23:50:11 Ending Fetching data from binance
+2024-05-28 23:50:11 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:11 Current length of price history: 32
+2024-05-28 23:50:11 Price history length: 32 and prediction days: 60
+2024-05-28 23:50:11 Collecting data...
+2024-05-28 23:50:12 Current time: 2024-05-28 23:50:12
+2024-05-28 23:50:12 Started Fetching data from binance
+2024-05-28 23:50:12 Fetching data from Binance API...
+2024-05-28 23:50:12 Current time: 2024-05-28 23:50:12
+2024-05-28 23:50:12 Started Fetching data from binance
+2024-05-28 23:50:12 Ending Fetching data from binance
+2024-05-28 23:50:12 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:12 Current length of price history: 52
+2024-05-28 23:50:12 Price history length: 52 and prediction days: 60
+2024-05-28 23:50:12 Collecting data...
+2024-05-28 23:50:12 Current time: 2024-05-28 23:50:12
+2024-05-28 23:50:12 Started Fetching data from binance
+2024-05-28 23:50:12 Ending Fetching data from binance
+2024-05-28 23:50:12 Fetched price: 68203.68
+2024-05-28 23:50:12 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:12 Current length of price history: 33
+2024-05-28 23:50:12 Price history length: 33 and prediction days: 60
+2024-05-28 23:50:12 Collecting data...
+2024-05-28 23:50:12 Ending Fetching data from binance
+2024-05-28 23:50:12 Latest BTC Price: 68203.68 USDT
+2024-05-28 23:50:12 Current length of price history: 58
+2024-05-28 23:50:12 Price history length: 58 and prediction days: 60
+2024-05-28 23:50:12 Collecting data...
+2024-05-28 23:50:13 Current time: 2024-05-28 23:50:13
+2024-05-28 23:50:13 Started Fetching data from binance
+2024-05-28 23:50:13 Ending Fetching data from binance
+2024-05-28 23:50:13 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:13 Current length of price history: 53
+2024-05-28 23:50:13 Price history length: 53 and prediction days: 60
+2024-05-28 23:50:13 Collecting data...
+2024-05-28 23:50:13 Current time: 2024-05-28 23:50:13
+2024-05-28 23:50:13 Started Fetching data from binance
+2024-05-28 23:50:13 Ending Fetching data from binance
+2024-05-28 23:50:13 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:13 Current length of price history: 34
+2024-05-28 23:50:13 Price history length: 34 and prediction days: 60
+2024-05-28 23:50:13 Collecting data...
+2024-05-28 23:50:13 Current time: 2024-05-28 23:50:13
+2024-05-28 23:50:13 Started Fetching data from binance
+2024-05-28 23:50:13 Fetching data from Binance API...
+2024-05-28 23:50:14 Fetched price: 68203.68
+2024-05-28 23:50:14 Ending Fetching data from binance
+2024-05-28 23:50:14 Latest BTC Price: 68203.68 USDT
+2024-05-28 23:50:14 Current length of price history: 59
+2024-05-28 23:50:14 Price history length: 59 and prediction days: 60
+2024-05-28 23:50:14 Collecting data...
+2024-05-28 23:50:14 Current time: 2024-05-28 23:50:14
+2024-05-28 23:50:14 Started Fetching data from binance
+2024-05-28 23:50:14 Ending Fetching data from binance
+2024-05-28 23:50:14 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:14 Current length of price history: 54
+2024-05-28 23:50:14 Price history length: 54 and prediction days: 60
+2024-05-28 23:50:14 Collecting data...
+2024-05-28 23:50:14 Current time: 2024-05-28 23:50:14
+2024-05-28 23:50:14 Started Fetching data from binance
+2024-05-28 23:50:14 Ending Fetching data from binance
+2024-05-28 23:50:14 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:14 Current length of price history: 35
+2024-05-28 23:50:14 Price history length: 35 and prediction days: 60
+2024-05-28 23:50:14 Collecting data...
+2024-05-28 23:50:15 Current time: 2024-05-28 23:50:15
+2024-05-28 23:50:15 Started Fetching data from binance
+2024-05-28 23:50:15 Fetching data from Binance API...
+2024-05-28 23:50:15 Current time: 2024-05-28 23:50:15
+2024-05-28 23:50:15 Started Fetching data from binance
+2024-05-28 23:50:15 Ending Fetching data from binance
+2024-05-28 23:50:15 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:15 Current length of price history: 55
+2024-05-28 23:50:15 Price history length: 55 and prediction days: 60
+2024-05-28 23:50:15 Collecting data...
+2024-05-28 23:50:15 Fetched price: 68203.68
+2024-05-28 23:50:15 Ending Fetching data from binance
+2024-05-28 23:50:15 Latest BTC Price: 68203.68 USDT
+2024-05-28 23:50:15 Current length of price history: 60
+2024-05-28 23:50:15 Price history length: 60 and prediction days: 60
+2024-05-28 23:50:15 Preparing data for prediction...
+2024-05-28 23:50:15 train_data [68204.99 68205.   68205.   68205.   68204.99 68200.64 68200.16 68200.16
+ 68200.17 68200.16 68200.17 68184.   68184.   68184.   68184.   68185.44
+ 68185.43 68187.43 68187.43 68187.44 68187.43 68191.28 68191.28 68191.28
+ 68191.28 68191.29 68191.28 68191.28 68191.28 68191.28 68191.29 68191.29
+ 68191.29 68191.28 68191.29 68191.29 68191.29 68199.5  68204.99 68204.99
+ 68204.99 68205.   68204.99 68205.   68204.99 68207.76 68207.75 68207.75
+ 68207.75 68207.75 68207.76 68207.76 68207.76 68204.99 68204.99 68205.
+ 68203.68 68203.68 68203.68 68203.68]
+2024-05-28 23:50:15 Starting price prediction using ARIMA...
+2024-05-28 23:50:15 Current time: 2024-05-28 23:50:15
+2024-05-28 23:50:15 Started Fetching data from binance
+2024-05-28 23:50:15 Ending Fetching data from binance
+2024-05-28 23:50:15 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:15 Current length of price history: 36
+2024-05-28 23:50:15 Price history length: 36 and prediction days: 60
+2024-05-28 23:50:15 Collecting data...
+2024-05-28 23:50:16 Price prediction completed.
+2024-05-28 23:50:16 Plot updated with actual and predicted prices.
+2024-05-28 23:50:16 Current time: 2024-05-28 23:50:16
+2024-05-28 23:50:16 Started Fetching data from binance
+2024-05-28 23:50:16 Ending Fetching data from binance
+2024-05-28 23:50:16 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:16 Current length of price history: 56
+2024-05-28 23:50:16 Price history length: 56 and prediction days: 60
+2024-05-28 23:50:16 Collecting data...
+2024-05-28 23:50:16 Current time: 2024-05-28 23:50:16
+2024-05-28 23:50:16 Started Fetching data from binance
+2024-05-28 23:50:16 Ending Fetching data from binance
+2024-05-28 23:50:16 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:16 Current length of price history: 37
+2024-05-28 23:50:16 Price history length: 37 and prediction days: 60
+2024-05-28 23:50:16 Collecting data...
+2024-05-28 23:50:17 Current time: 2024-05-28 23:50:17
+2024-05-28 23:50:17 Started Fetching data from binance
+2024-05-28 23:50:17 Fetching data from Binance API...
+2024-05-28 23:50:17 Current time: 2024-05-28 23:50:17
+2024-05-28 23:50:17 Started Fetching data from binance
+2024-05-28 23:50:17 Ending Fetching data from binance
+2024-05-28 23:50:17 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:17 Current length of price history: 57
+2024-05-28 23:50:17 Price history length: 57 and prediction days: 60
+2024-05-28 23:50:17 Collecting data...
+2024-05-28 23:50:17 Current time: 2024-05-28 23:50:17
+2024-05-28 23:50:17 Started Fetching data from binance
+2024-05-28 23:50:17 Ending Fetching data from binance
+2024-05-28 23:50:17 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:17 Current length of price history: 38
+2024-05-28 23:50:17 Price history length: 38 and prediction days: 60
+2024-05-28 23:50:17 Collecting data...
+2024-05-28 23:50:17 Fetched price: 68203.67
+2024-05-28 23:50:17 Ending Fetching data from binance
+2024-05-28 23:50:17 Latest BTC Price: 68203.67 USDT
+2024-05-28 23:50:17 Current length of price history: 61
+2024-05-28 23:50:17 Price history length: 61 and prediction days: 60
+2024-05-28 23:50:17 Preparing data for prediction...
+2024-05-28 23:50:17 train_data [68205.   68205.   68205.   68204.99 68200.64 68200.16 68200.16 68200.17
+ 68200.16 68200.17 68184.   68184.   68184.   68184.   68185.44 68185.43
+ 68187.43 68187.43 68187.44 68187.43 68191.28 68191.28 68191.28 68191.28
+ 68191.29 68191.28 68191.28 68191.28 68191.28 68191.29 68191.29 68191.29
+ 68191.28 68191.29 68191.29 68191.29 68199.5  68204.99 68204.99 68204.99
+ 68205.   68204.99 68205.   68204.99 68207.76 68207.75 68207.75 68207.75
+ 68207.75 68207.76 68207.76 68207.76 68204.99 68204.99 68205.   68203.68
+ 68203.68 68203.68 68203.68 68203.67]
+2024-05-28 23:50:17 Starting price prediction using ARIMA...
+2024-05-28 23:50:18 Price prediction completed.
+2024-05-28 23:50:18 Plot updated with actual and predicted prices.
+2024-05-28 23:50:18 Current time: 2024-05-28 23:50:18
+2024-05-28 23:50:18 Started Fetching data from binance
+2024-05-28 23:50:18 Ending Fetching data from binance
+2024-05-28 23:50:18 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:18 Current length of price history: 58
+2024-05-28 23:50:18 Price history length: 58 and prediction days: 60
+2024-05-28 23:50:18 Collecting data...
+2024-05-28 23:50:18 Current time: 2024-05-28 23:50:18
+2024-05-28 23:50:18 Started Fetching data from binance
+2024-05-28 23:50:18 Ending Fetching data from binance
+2024-05-28 23:50:18 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:18 Current length of price history: 39
+2024-05-28 23:50:18 Price history length: 39 and prediction days: 60
+2024-05-28 23:50:18 Collecting data...
+2024-05-28 23:50:19 Current time: 2024-05-28 23:50:19
+2024-05-28 23:50:19 Started Fetching data from binance
+2024-05-28 23:50:19 Fetching data from Binance API...
+2024-05-28 23:50:19 Current time: 2024-05-28 23:50:19
+2024-05-28 23:50:19 Started Fetching data from binance
+2024-05-28 23:50:19 Ending Fetching data from binance
+2024-05-28 23:50:19 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:19 Current length of price history: 59
+2024-05-28 23:50:19 Price history length: 59 and prediction days: 60
+2024-05-28 23:50:19 Collecting data...
+2024-05-28 23:50:19 Current time: 2024-05-28 23:50:19
+2024-05-28 23:50:19 Started Fetching data from binance
+2024-05-28 23:50:19 Ending Fetching data from binance
+2024-05-28 23:50:19 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:19 Current length of price history: 40
+2024-05-28 23:50:19 Price history length: 40 and prediction days: 60
+2024-05-28 23:50:19 Collecting data...
+2024-05-28 23:50:19 Fetched price: 68203.67
+2024-05-28 23:50:19 Ending Fetching data from binance
+2024-05-28 23:50:19 Latest BTC Price: 68203.67 USDT
+2024-05-28 23:50:19 Current length of price history: 62
+2024-05-28 23:50:19 Price history length: 62 and prediction days: 60
+2024-05-28 23:50:19 Preparing data for prediction...
+2024-05-28 23:50:19 train_data [68205.   68205.   68204.99 68200.64 68200.16 68200.16 68200.17 68200.16
+ 68200.17 68184.   68184.   68184.   68184.   68185.44 68185.43 68187.43
+ 68187.43 68187.44 68187.43 68191.28 68191.28 68191.28 68191.28 68191.29
+ 68191.28 68191.28 68191.28 68191.28 68191.29 68191.29 68191.29 68191.28
+ 68191.29 68191.29 68191.29 68199.5  68204.99 68204.99 68204.99 68205.
+ 68204.99 68205.   68204.99 68207.76 68207.75 68207.75 68207.75 68207.75
+ 68207.76 68207.76 68207.76 68204.99 68204.99 68205.   68203.68 68203.68
+ 68203.68 68203.68 68203.67 68203.67]
+2024-05-28 23:50:19 Starting price prediction using ARIMA...
+2024-05-28 23:50:20 Price prediction completed.
+2024-05-28 23:50:20 Current time: 2024-05-28 23:50:20
+2024-05-28 23:50:20 Started Fetching data from binance
+2024-05-28 23:50:20 Ending Fetching data from binance
+2024-05-28 23:50:20 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:20 Current length of price history: 60
+2024-05-28 23:50:20 Price history length: 60 and prediction days: 60
+2024-05-28 23:50:20 Preparing data for prediction...
+2024-05-28 23:50:20 train_data [68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28]
+2024-05-28 23:50:20 Starting price prediction using ARIMA...
+2024-05-28 23:50:20 Plot updated with actual and predicted prices.
+2024-05-28 23:50:20 Price prediction completed.
+2024-05-28 23:50:20 Plot updated with actual and predicted prices.
+2024-05-28 23:50:20 Current time: 2024-05-28 23:50:20
+2024-05-28 23:50:20 Started Fetching data from binance
+2024-05-28 23:50:20 Ending Fetching data from binance
+2024-05-28 23:50:20 Latest BTC Price: 68191.28 USDT
+2024-05-28 23:50:20 Current length of price history: 41
+2024-05-28 23:50:20 Price history length: 41 and prediction days: 60
+2024-05-28 23:50:20 Collecting data...
+2024-05-28 23:50:21 Current time: 2024-05-28 23:50:21
+2024-05-28 23:50:21 Started Fetching data from binance
+2024-05-28 23:50:21 Fetching data from Binance API...
+2024-05-28 23:50:21 Current time: 2024-05-28 23:50:21
+2024-05-28 23:50:21 Started Fetching data from binance
+2024-05-28 23:50:21 Fetching data from Binance API...
+2024-05-28 23:50:21 Current time: 2024-05-28 23:50:21
+2024-05-28 23:50:21 Started Fetching data from binance
+2024-05-28 23:50:22 Fetched price: 68197.36
+2024-05-28 23:50:22 Ending Fetching data from binance
+2024-05-28 23:50:22 Latest BTC Price: 68197.36 USDT
+2024-05-28 23:50:22 Current length of price history: 63
+2024-05-28 23:50:22 Price history length: 63 and prediction days: 60
+2024-05-28 23:50:22 Preparing data for prediction...
+2024-05-28 23:50:22 train_data [68205.   68204.99 68200.64 68200.16 68200.16 68200.17 68200.16 68200.17
+ 68184.   68184.   68184.   68184.   68185.44 68185.43 68187.43 68187.43
+ 68187.44 68187.43 68191.28 68191.28 68191.28 68191.28 68191.29 68191.28
+ 68191.28 68191.28 68191.28 68191.29 68191.29 68191.29 68191.28 68191.29
+ 68191.29 68191.29 68199.5  68204.99 68204.99 68204.99 68205.   68204.99
+ 68205.   68204.99 68207.76 68207.75 68207.75 68207.75 68207.75 68207.76
+ 68207.76 68207.76 68204.99 68204.99 68205.   68203.68 68203.68 68203.68
+ 68203.68 68203.67 68203.67 68197.36]
+2024-05-28 23:50:22 Starting price prediction using ARIMA...
+2024-05-28 23:50:22 Fetched price: 68194.01
+2024-05-28 23:50:22 Ending Fetching data from binance
+2024-05-28 23:50:22 Ending Fetching data from binance
+2024-05-28 23:50:22 Latest BTC Price: 68194.01 USDT
+2024-05-28 23:50:22 Current length of price history: 61
+2024-05-28 23:50:22 Latest BTC Price: 68194.01 USDT
+2024-05-28 23:50:22 Price history length: 61 and prediction days: 60
+2024-05-28 23:50:22 Current length of price history: 42
+2024-05-28 23:50:22 Preparing data for prediction...
+2024-05-28 23:50:22 Price history length: 42 and prediction days: 60
+2024-05-28 23:50:22 train_data [68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68194.01]
+2024-05-28 23:50:22 Collecting data...
+2024-05-28 23:50:22 Starting price prediction using ARIMA...
+2024-05-28 23:50:22 Price prediction completed.
+2024-05-28 23:50:22 Plot updated with actual and predicted prices.
+2024-05-28 23:50:23 Current time: 2024-05-28 23:50:23
+2024-05-28 23:50:23 Started Fetching data from binance
+2024-05-28 23:50:23 Ending Fetching data from binance
+2024-05-28 23:50:23 Latest BTC Price: 68194.01 USDT
+2024-05-28 23:50:23 Current length of price history: 43
+2024-05-28 23:50:23 Price history length: 43 and prediction days: 60
+2024-05-28 23:50:23 Collecting data...
+2024-05-28 23:50:23 Current time: 2024-05-28 23:50:23
+2024-05-28 23:50:23 Started Fetching data from binance
+2024-05-28 23:50:23 Fetching data from Binance API...
+2024-05-28 23:50:24 Current time: 2024-05-28 23:50:24
+2024-05-28 23:50:24 Started Fetching data from binance
+2024-05-28 23:50:24 Ending Fetching data from binance
+2024-05-28 23:50:24 Latest BTC Price: 68194.01 USDT
+2024-05-28 23:50:24 Current length of price history: 44
+2024-05-28 23:50:24 Price history length: 44 and prediction days: 60
+2024-05-28 23:50:24 Collecting data...
+2024-05-28 23:50:24 Fetched price: 68159.18
+2024-05-28 23:50:24 Ending Fetching data from binance
+2024-05-28 23:50:24 Latest BTC Price: 68159.18 USDT
+2024-05-28 23:50:24 Current length of price history: 64
+2024-05-28 23:50:24 Price history length: 64 and prediction days: 60
+2024-05-28 23:50:24 Preparing data for prediction...
+2024-05-28 23:50:24 train_data [68204.99 68200.64 68200.16 68200.16 68200.17 68200.16 68200.17 68184.
+ 68184.   68184.   68184.   68185.44 68185.43 68187.43 68187.43 68187.44
+ 68187.43 68191.28 68191.28 68191.28 68191.28 68191.29 68191.28 68191.28
+ 68191.28 68191.28 68191.29 68191.29 68191.29 68191.28 68191.29 68191.29
+ 68191.29 68199.5  68204.99 68204.99 68204.99 68205.   68204.99 68205.
+ 68204.99 68207.76 68207.75 68207.75 68207.75 68207.75 68207.76 68207.76
+ 68207.76 68204.99 68204.99 68205.   68203.68 68203.68 68203.68 68203.68
+ 68203.67 68203.67 68197.36 68159.18]
+2024-05-28 23:50:24 Starting price prediction using ARIMA...
+2024-05-28 23:50:25 Current time: 2024-05-28 23:50:25
+2024-05-28 23:50:25 Started Fetching data from binance
+2024-05-28 23:50:25 Ending Fetching data from binance
+2024-05-28 23:50:25 Latest BTC Price: 68194.01 USDT
+2024-05-28 23:50:25 Current length of price history: 45
+2024-05-28 23:50:25 Price history length: 45 and prediction days: 60
+2024-05-28 23:50:25 Collecting data...
+2024-05-28 23:50:26 Current time: 2024-05-28 23:50:26
+2024-05-28 23:50:26 Started Fetching data from binance
+2024-05-28 23:50:26 Ending Fetching data from binance
+2024-05-28 23:50:26 Latest BTC Price: 68194.01 USDT
+2024-05-28 23:50:26 Current length of price history: 46
+2024-05-28 23:50:26 Price history length: 46 and prediction days: 60
+2024-05-28 23:50:26 Collecting data...
+2024-05-28 23:50:26 Price prediction completed.
+2024-05-28 23:50:26 Plot updated with actual and predicted prices.
+2024-05-28 23:50:27 Current time: 2024-05-28 23:50:27
+2024-05-28 23:50:27 Started Fetching data from binance
+2024-05-28 23:50:27 Ending Fetching data from binance
+2024-05-28 23:50:27 Latest BTC Price: 68194.01 USDT
+2024-05-28 23:50:27 Current length of price history: 47
+2024-05-28 23:50:27 Price history length: 47 and prediction days: 60
+2024-05-28 23:50:27 Collecting data...
+2024-05-28 23:50:28 Current time: 2024-05-28 23:50:28
+2024-05-28 23:50:28 Started Fetching data from binance
+2024-05-28 23:50:28 Fetching data from Binance API...
+2024-05-28 23:50:28 Fetched price: 68147.06
+2024-05-28 23:50:28 Ending Fetching data from binance
+2024-05-28 23:50:28 Latest BTC Price: 68147.06 USDT
+2024-05-28 23:50:28 Current length of price history: 65
+2024-05-28 23:50:28 Price history length: 65 and prediction days: 60
+2024-05-28 23:50:28 Preparing data for prediction...
+2024-05-28 23:50:28 train_data [68200.64 68200.16 68200.16 68200.17 68200.16 68200.17 68184.   68184.
+ 68184.   68184.   68185.44 68185.43 68187.43 68187.43 68187.44 68187.43
+ 68191.28 68191.28 68191.28 68191.28 68191.29 68191.28 68191.28 68191.28
+ 68191.28 68191.29 68191.29 68191.29 68191.28 68191.29 68191.29 68191.29
+ 68199.5  68204.99 68204.99 68204.99 68205.   68204.99 68205.   68204.99
+ 68207.76 68207.75 68207.75 68207.75 68207.75 68207.76 68207.76 68207.76
+ 68204.99 68204.99 68205.   68203.68 68203.68 68203.68 68203.68 68203.67
+ 68203.67 68197.36 68159.18 68147.06]
+2024-05-28 23:50:28 Starting price prediction using ARIMA...
+2024-05-28 23:50:28 Current time: 2024-05-28 23:50:28
+2024-05-28 23:50:28 Started Fetching data from binance
+2024-05-28 23:50:28 Ending Fetching data from binance
+2024-05-28 23:50:28 Latest BTC Price: 68194.01 USDT
+2024-05-28 23:50:28 Current length of price history: 48
+2024-05-28 23:50:28 Price history length: 48 and prediction days: 60
+2024-05-28 23:50:28 Collecting data...
+2024-05-28 23:50:29 Current time: 2024-05-28 23:50:29
+2024-05-28 23:50:29 Started Fetching data from binance
+2024-05-28 23:50:29 Ending Fetching data from binance
+2024-05-28 23:50:29 Latest BTC Price: 68194.01 USDT
+2024-05-28 23:50:29 Current length of price history: 49
+2024-05-28 23:50:29 Price history length: 49 and prediction days: 60
+2024-05-28 23:50:29 Collecting data...
+2024-05-28 23:50:30 Current time: 2024-05-28 23:50:30
+2024-05-28 23:50:30 Started Fetching data from binance
+2024-05-28 23:50:30 Ending Fetching data from binance
+2024-05-28 23:50:30 Latest BTC Price: 68194.01 USDT
+2024-05-28 23:50:30 Current length of price history: 50
+2024-05-28 23:50:30 Price history length: 50 and prediction days: 60
+2024-05-28 23:50:30 Collecting data...
+2024-05-28 23:50:31 Current time: 2024-05-28 23:50:31
+2024-05-28 23:50:31 Started Fetching data from binance
+2024-05-28 23:50:31 Ending Fetching data from binance
+2024-05-28 23:50:31 Latest BTC Price: 68194.01 USDT
+2024-05-28 23:50:31 Current length of price history: 51
+2024-05-28 23:50:31 Price history length: 51 and prediction days: 60
+2024-05-28 23:50:31 Collecting data...
+2024-05-28 23:50:32 Price prediction completed.
+2024-05-28 23:50:33 Current time: 2024-05-28 23:50:33
+2024-05-28 23:50:33 Started Fetching data from binance
+2024-05-28 23:50:33 Plot updated with actual and predicted prices.
+2024-05-28 23:50:33 Ending Fetching data from binance
+2024-05-28 23:50:33 Latest BTC Price: 68194.01 USDT
+2024-05-28 23:50:33 Current length of price history: 52
+2024-05-28 23:50:33 Price history length: 52 and prediction days: 60
+2024-05-28 23:50:33 Collecting data...
+2024-05-28 23:50:34 Current time: 2024-05-28 23:50:34
+2024-05-28 23:50:34 Started Fetching data from binance
+2024-05-28 23:50:34 Current time: 2024-05-28 23:50:34
+2024-05-28 23:50:34 Fetching data from Binance API...
+2024-05-28 23:50:34 Started Fetching data from binance
+2024-05-28 23:50:34 Ending Fetching data from binance
+2024-05-28 23:50:34 Latest BTC Price: 68194.01 USDT
+2024-05-28 23:50:34 Current length of price history: 53
+2024-05-28 23:50:34 Price history length: 53 and prediction days: 60
+2024-05-28 23:50:34 Collecting data...
+2024-05-28 23:50:34 Fetched price: 68155.17
+2024-05-28 23:50:34 Ending Fetching data from binance
+2024-05-28 23:50:34 Latest BTC Price: 68155.17 USDT
+2024-05-28 23:50:34 Current length of price history: 66
+2024-05-28 23:50:34 Price history length: 66 and prediction days: 60
+2024-05-28 23:50:34 Preparing data for prediction...
+2024-05-28 23:50:34 train_data [68200.16 68200.16 68200.17 68200.16 68200.17 68184.   68184.   68184.
+ 68184.   68185.44 68185.43 68187.43 68187.43 68187.44 68187.43 68191.28
+ 68191.28 68191.28 68191.28 68191.29 68191.28 68191.28 68191.28 68191.28
+ 68191.29 68191.29 68191.29 68191.28 68191.29 68191.29 68191.29 68199.5
+ 68204.99 68204.99 68204.99 68205.   68204.99 68205.   68204.99 68207.76
+ 68207.75 68207.75 68207.75 68207.75 68207.76 68207.76 68207.76 68204.99
+ 68204.99 68205.   68203.68 68203.68 68203.68 68203.68 68203.67 68203.67
+ 68197.36 68159.18 68147.06 68155.17]
+2024-05-28 23:50:34 Starting price prediction using ARIMA...
+2024-05-28 23:50:35 Current time: 2024-05-28 23:50:35
+2024-05-28 23:50:35 Started Fetching data from binance
+2024-05-28 23:50:35 Ending Fetching data from binance
+2024-05-28 23:50:35 Latest BTC Price: 68194.01 USDT
+2024-05-28 23:50:35 Current length of price history: 54
+2024-05-28 23:50:35 Price history length: 54 and prediction days: 60
+2024-05-28 23:50:35 Collecting data...
+2024-05-28 23:50:36 Current time: 2024-05-28 23:50:36
+2024-05-28 23:50:36 Started Fetching data from binance
+2024-05-28 23:50:36 Ending Fetching data from binance
+2024-05-28 23:50:36 Latest BTC Price: 68194.01 USDT
+2024-05-28 23:50:36 Current length of price history: 55
+2024-05-28 23:50:36 Price history length: 55 and prediction days: 60
+2024-05-28 23:50:36 Collecting data...
+2024-05-28 23:50:37 Current time: 2024-05-28 23:50:37
+2024-05-28 23:50:37 Started Fetching data from binance
+2024-05-28 23:50:37 Ending Fetching data from binance
+2024-05-28 23:50:37 Latest BTC Price: 68194.01 USDT
+2024-05-28 23:50:37 Current length of price history: 56
+2024-05-28 23:50:37 Price history length: 56 and prediction days: 60
+2024-05-28 23:50:37 Collecting data...
+2024-05-28 23:50:38 Current time: 2024-05-28 23:50:38
+2024-05-28 23:50:38 Started Fetching data from binance
+2024-05-28 23:50:38 Ending Fetching data from binance
+2024-05-28 23:50:38 Latest BTC Price: 68194.01 USDT
+2024-05-28 23:50:38 Current length of price history: 57
+2024-05-28 23:50:38 Price history length: 57 and prediction days: 60
+2024-05-28 23:50:38 Collecting data...
+2024-05-28 23:50:39 Current time: 2024-05-28 23:50:39
+2024-05-28 23:50:39 Started Fetching data from binance
+2024-05-28 23:50:39 Ending Fetching data from binance
+2024-05-28 23:50:39 Latest BTC Price: 68194.01 USDT
+2024-05-28 23:50:39 Current length of price history: 58
+2024-05-28 23:50:39 Price history length: 58 and prediction days: 60
+2024-05-28 23:50:39 Collecting data...
+2024-05-28 23:50:40 Current time: 2024-05-28 23:50:40
+2024-05-28 23:50:40 Started Fetching data from binance
+2024-05-28 23:50:40 Ending Fetching data from binance
+2024-05-28 23:50:40 Latest BTC Price: 68194.01 USDT
+2024-05-28 23:50:40 Current length of price history: 59
+2024-05-28 23:50:40 Price history length: 59 and prediction days: 60
+2024-05-28 23:50:40 Collecting data...
+2024-05-28 23:50:41 Current time: 2024-05-28 23:50:41
+2024-05-28 23:50:41 Started Fetching data from binance
+2024-05-28 23:50:41 Ending Fetching data from binance
+2024-05-28 23:50:41 Latest BTC Price: 68194.01 USDT
+2024-05-28 23:50:41 Current length of price history: 60
+2024-05-28 23:50:41 Price history length: 60 and prediction days: 60
+2024-05-28 23:50:41 Preparing data for prediction...
+2024-05-28 23:50:41 train_data [68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68194.01 68194.01 68194.01 68194.01 68194.01 68194.01 68194.01
+ 68194.01 68194.01 68194.01 68194.01 68194.01 68194.01 68194.01 68194.01
+ 68194.01 68194.01 68194.01 68194.01]
+2024-05-28 23:50:41 Starting price prediction using ARIMA...
+2024-05-28 23:50:47 Price prediction completed.
+2024-05-28 23:50:47 Plot updated with actual and predicted prices.
+2024-05-28 23:50:48 Current time: 2024-05-28 23:50:48
+2024-05-28 23:50:48 Started Fetching data from binance
+2024-05-28 23:50:48 Fetching data from Binance API...
+2024-05-28 23:50:49 Fetched price: 68125.0
+2024-05-28 23:50:49 Ending Fetching data from binance
+2024-05-28 23:50:49 Latest BTC Price: 68125.00 USDT
+2024-05-28 23:50:49 Current length of price history: 67
+2024-05-28 23:50:49 Price history length: 67 and prediction days: 60
+2024-05-28 23:50:49 Preparing data for prediction...
+2024-05-28 23:50:49 train_data [68200.16 68200.17 68200.16 68200.17 68184.   68184.   68184.   68184.
+ 68185.44 68185.43 68187.43 68187.43 68187.44 68187.43 68191.28 68191.28
+ 68191.28 68191.28 68191.29 68191.28 68191.28 68191.28 68191.28 68191.29
+ 68191.29 68191.29 68191.28 68191.29 68191.29 68191.29 68199.5  68204.99
+ 68204.99 68204.99 68205.   68204.99 68205.   68204.99 68207.76 68207.75
+ 68207.75 68207.75 68207.75 68207.76 68207.76 68207.76 68204.99 68204.99
+ 68205.   68203.68 68203.68 68203.68 68203.68 68203.67 68203.67 68197.36
+ 68159.18 68147.06 68155.17 68125.  ]
+2024-05-28 23:50:49 Starting price prediction using ARIMA...
+2024-05-28 23:50:51 Price prediction completed.
+2024-05-28 23:50:52 Plot updated with actual and predicted prices.
+2024-05-28 23:50:53 Current time: 2024-05-28 23:50:53
+2024-05-28 23:50:53 Started Fetching data from binance
+2024-05-28 23:50:53 Fetching data from Binance API...
+2024-05-28 23:50:54 Fetched price: 68129.09
+2024-05-28 23:50:54 Ending Fetching data from binance
+2024-05-28 23:50:54 Latest BTC Price: 68129.09 USDT
+2024-05-28 23:50:54 Current length of price history: 68
+2024-05-28 23:50:54 Price history length: 68 and prediction days: 60
+2024-05-28 23:50:54 Preparing data for prediction...
+2024-05-28 23:50:54 train_data [68200.17 68200.16 68200.17 68184.   68184.   68184.   68184.   68185.44
+ 68185.43 68187.43 68187.43 68187.44 68187.43 68191.28 68191.28 68191.28
+ 68191.28 68191.29 68191.28 68191.28 68191.28 68191.28 68191.29 68191.29
+ 68191.29 68191.28 68191.29 68191.29 68191.29 68199.5  68204.99 68204.99
+ 68204.99 68205.   68204.99 68205.   68204.99 68207.76 68207.75 68207.75
+ 68207.75 68207.75 68207.76 68207.76 68207.76 68204.99 68204.99 68205.
+ 68203.68 68203.68 68203.68 68203.68 68203.67 68203.67 68197.36 68159.18
+ 68147.06 68155.17 68125.   68129.09]
+2024-05-28 23:50:54 Starting price prediction using ARIMA...
+2024-05-28 23:50:55 Price prediction completed.
+2024-05-28 23:50:56 Price prediction completed.
+2024-05-28 23:50:57 Plot updated with actual and predicted prices.
+2024-05-28 23:50:58 Current time: 2024-05-28 23:50:58
+2024-05-28 23:50:58 Started Fetching data from binance
+2024-05-28 23:50:58 Fetching data from Binance API...
+2024-05-28 23:50:58 Fetched price: 68131.99
+2024-05-28 23:50:58 Ending Fetching data from binance
+2024-05-28 23:50:58 Latest BTC Price: 68131.99 USDT
+2024-05-28 23:50:58 Current length of price history: 69
+2024-05-28 23:50:58 Price history length: 69 and prediction days: 60
+2024-05-28 23:50:58 Preparing data for prediction...
+2024-05-28 23:50:58 train_data [68200.16 68200.17 68184.   68184.   68184.   68184.   68185.44 68185.43
+ 68187.43 68187.43 68187.44 68187.43 68191.28 68191.28 68191.28 68191.28
+ 68191.29 68191.28 68191.28 68191.28 68191.28 68191.29 68191.29 68191.29
+ 68191.28 68191.29 68191.29 68191.29 68199.5  68204.99 68204.99 68204.99
+ 68205.   68204.99 68205.   68204.99 68207.76 68207.75 68207.75 68207.75
+ 68207.75 68207.76 68207.76 68207.76 68204.99 68204.99 68205.   68203.68
+ 68203.68 68203.68 68203.68 68203.67 68203.67 68197.36 68159.18 68147.06
+ 68155.17 68125.   68129.09 68131.99]
+2024-05-28 23:50:58 Starting price prediction using ARIMA...
+2024-05-28 23:51:05 Plot updated with actual and predicted prices.
+2024-05-28 23:51:06 Current time: 2024-05-28 23:51:06
+2024-05-28 23:51:06 Started Fetching data from binance
+2024-05-28 23:51:06 Ending Fetching data from binance
+2024-05-28 23:51:06 Latest BTC Price: 68194.01 USDT
+2024-05-28 23:51:06 Current length of price history: 61
+2024-05-28 23:51:06 Price history length: 61 and prediction days: 60
+2024-05-28 23:51:06 Preparing data for prediction...
+2024-05-28 23:51:06 train_data [68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68194.01 68194.01 68194.01 68194.01 68194.01 68194.01 68194.01 68194.01
+ 68194.01 68194.01 68194.01 68194.01 68194.01 68194.01 68194.01 68194.01
+ 68194.01 68194.01 68194.01 68194.01]
+2024-05-28 23:51:06 Starting price prediction using ARIMA...
+2024-05-28 23:51:18 Price prediction completed.
+2024-05-28 23:51:19 Price prediction completed.
+2024-05-28 23:51:19 Plot updated with actual and predicted prices.
+2024-05-28 23:51:19 Plot updated with actual and predicted prices.
+2024-05-28 23:51:20 Current time: 2024-05-28 23:51:20
+2024-05-28 23:51:20 Started Fetching data from binance
+2024-05-28 23:51:20 Ending Fetching data from binance
+2024-05-28 23:51:20 Latest BTC Price: 68194.01 USDT
+2024-05-28 23:51:20 Current length of price history: 62
+2024-05-28 23:51:20 Price history length: 62 and prediction days: 60
+2024-05-28 23:51:20 Preparing data for prediction...
+2024-05-28 23:51:20 train_data [68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68194.01
+ 68194.01 68194.01 68194.01 68194.01 68194.01 68194.01 68194.01 68194.01
+ 68194.01 68194.01 68194.01 68194.01 68194.01 68194.01 68194.01 68194.01
+ 68194.01 68194.01 68194.01 68194.01]
+2024-05-28 23:51:20 Starting price prediction using ARIMA...
+2024-05-28 23:51:20 Current time: 2024-05-28 23:51:20
+2024-05-28 23:51:20 Started Fetching data from binance
+2024-05-28 23:51:20 Fetching data from Binance API...
+2024-05-28 23:51:21 Fetched price: 68164.0
+2024-05-28 23:51:21 Ending Fetching data from binance
+2024-05-28 23:51:21 Latest BTC Price: 68164.00 USDT
+2024-05-28 23:51:21 Current length of price history: 70
+2024-05-28 23:51:21 Price history length: 70 and prediction days: 60
+2024-05-28 23:51:21 Preparing data for prediction...
+2024-05-28 23:51:21 train_data [68200.17 68184.   68184.   68184.   68184.   68185.44 68185.43 68187.43
+ 68187.43 68187.44 68187.43 68191.28 68191.28 68191.28 68191.28 68191.29
+ 68191.28 68191.28 68191.28 68191.28 68191.29 68191.29 68191.29 68191.28
+ 68191.29 68191.29 68191.29 68199.5  68204.99 68204.99 68204.99 68205.
+ 68204.99 68205.   68204.99 68207.76 68207.75 68207.75 68207.75 68207.75
+ 68207.76 68207.76 68207.76 68204.99 68204.99 68205.   68203.68 68203.68
+ 68203.68 68203.68 68203.67 68203.67 68197.36 68159.18 68147.06 68155.17
+ 68125.   68129.09 68131.99 68164.  ]
+2024-05-28 23:51:21 Starting price prediction using ARIMA...
+2024-05-28 23:51:23 Price prediction completed.
+2024-05-28 23:51:24 Plot updated with actual and predicted prices.
+2024-05-28 23:51:25 Current time: 2024-05-28 23:51:25
+2024-05-28 23:51:25 Started Fetching data from binance
+2024-05-28 23:51:25 Fetching data from Binance API...
+2024-05-28 23:51:25 Price prediction completed.
+2024-05-28 23:51:25 Fetched price: 68164.0
+2024-05-28 23:51:25 Ending Fetching data from binance
+2024-05-28 23:51:25 Latest BTC Price: 68164.00 USDT
+2024-05-28 23:51:25 Current length of price history: 63
+2024-05-28 23:51:25 Price history length: 63 and prediction days: 60
+2024-05-28 23:51:25 Preparing data for prediction...
+2024-05-28 23:51:25 train_data [68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68194.01 68194.01
+ 68194.01 68194.01 68194.01 68194.01 68194.01 68194.01 68194.01 68194.01
+ 68194.01 68194.01 68194.01 68194.01 68194.01 68194.01 68194.01 68194.01
+ 68194.01 68194.01 68194.01 68164.  ]
+2024-05-28 23:51:25 Starting price prediction using ARIMA...
+2024-05-28 23:51:25 Plot updated with actual and predicted prices.
+2024-05-28 23:51:26 Current time: 2024-05-28 23:51:26
+2024-05-28 23:51:26 Started Fetching data from binance
+2024-05-28 23:51:26 Fetching data from Binance API...
+2024-05-28 23:51:27 Fetched price: 68163.99
+2024-05-28 23:51:27 Ending Fetching data from binance
+2024-05-28 23:51:27 Latest BTC Price: 68163.99 USDT
+2024-05-28 23:51:27 Current length of price history: 71
+2024-05-28 23:51:27 Price history length: 71 and prediction days: 60
+2024-05-28 23:51:27 Preparing data for prediction...
+2024-05-28 23:51:27 train_data [68184.   68184.   68184.   68184.   68185.44 68185.43 68187.43 68187.43
+ 68187.44 68187.43 68191.28 68191.28 68191.28 68191.28 68191.29 68191.28
+ 68191.28 68191.28 68191.28 68191.29 68191.29 68191.29 68191.28 68191.29
+ 68191.29 68191.29 68199.5  68204.99 68204.99 68204.99 68205.   68204.99
+ 68205.   68204.99 68207.76 68207.75 68207.75 68207.75 68207.75 68207.76
+ 68207.76 68207.76 68204.99 68204.99 68205.   68203.68 68203.68 68203.68
+ 68203.68 68203.67 68203.67 68197.36 68159.18 68147.06 68155.17 68125.
+ 68129.09 68131.99 68164.   68163.99]
+2024-05-28 23:51:27 Starting price prediction using ARIMA...
+2024-05-28 23:51:31 Price prediction completed.
+2024-05-28 23:51:31 Plot updated with actual and predicted prices.
+2024-05-28 23:51:31 Price prediction completed.
+2024-05-28 23:51:32 Plot updated with actual and predicted prices.
+2024-05-28 23:51:32 Current time: 2024-05-28 23:51:32
+2024-05-28 23:51:32 Started Fetching data from binance
+2024-05-28 23:51:32 Fetching data from Binance API...
+2024-05-28 23:51:33 Current time: 2024-05-28 23:51:33
+2024-05-28 23:51:33 Started Fetching data from binance
+2024-05-28 23:51:33 Ending Fetching data from binance
+2024-05-28 23:51:33 Latest BTC Price: 68164.00 USDT
+2024-05-28 23:51:33 Current length of price history: 64
+2024-05-28 23:51:33 Price history length: 64 and prediction days: 60
+2024-05-28 23:51:33 Preparing data for prediction...
+2024-05-28 23:51:33 train_data [68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28 68191.28
+ 68191.28 68191.28 68191.28 68191.28 68191.28 68194.01 68194.01 68194.01
+ 68194.01 68194.01 68194.01 68194.01 68194.01 68194.01 68194.01 68194.01
+ 68194.01 68194.01 68194.01 68194.01 68194.01 68194.01 68194.01 68194.01
+ 68194.01 68194.01 68164.   68164.  ]
+2024-05-28 23:51:33 Starting price prediction using ARIMA...
+2024-05-28 23:51:33 Fetched price: 68172.1
+2024-05-28 23:51:33 Ending Fetching data from binance
+2024-05-28 23:51:33 Latest BTC Price: 68172.10 USDT
+2024-05-28 23:51:33 Current length of price history: 72
+2024-05-28 23:51:33 Price history length: 72 and prediction days: 60
+2024-05-28 23:51:33 Preparing data for prediction...
+2024-05-28 23:51:33 train_data [68184.   68184.   68184.   68185.44 68185.43 68187.43 68187.43 68187.44
+ 68187.43 68191.28 68191.28 68191.28 68191.28 68191.29 68191.28 68191.28
+ 68191.28 68191.28 68191.29 68191.29 68191.29 68191.28 68191.29 68191.29
+ 68191.29 68199.5  68204.99 68204.99 68204.99 68205.   68204.99 68205.
+ 68204.99 68207.76 68207.75 68207.75 68207.75 68207.75 68207.76 68207.76
+ 68207.76 68204.99 68204.99 68205.   68203.68 68203.68 68203.68 68203.68
+ 68203.67 68203.67 68197.36 68159.18 68147.06 68155.17 68125.   68129.09
+ 68131.99 68164.   68163.99 68172.1 ]
+2024-05-28 23:51:33 Starting price prediction using ARIMA...
+2024-05-28 23:51:36 Price prediction completed.
+2024-05-28 23:51:37 Plot updated with actual and predicted prices.
+2024-05-28 23:51:38 Current time: 2024-05-28 23:51:38
+2024-05-28 23:51:38 Started Fetching data from binance
+2024-05-28 23:51:38 Fetching data from Binance API...
+2024-05-28 23:51:38 Fetched price: 68186.83
+2024-05-28 23:51:38 Ending Fetching data from binance
+2024-05-28 23:51:38 Latest BTC Price: 68186.83 USDT
+2024-05-28 23:51:38 Current length of price history: 73
+2024-05-28 23:51:38 Price history length: 73 and prediction days: 60
+2024-05-28 23:51:38 Preparing data for prediction...
+2024-05-28 23:51:38 train_data [68184.   68184.   68185.44 68185.43 68187.43 68187.43 68187.44 68187.43
+ 68191.28 68191.28 68191.28 68191.28 68191.29 68191.28 68191.28 68191.28
+ 68191.28 68191.29 68191.29 68191.29 68191.28 68191.29 68191.29 68191.29
+ 68199.5  68204.99 68204.99 68204.99 68205.   68204.99 68205.   68204.99
+ 68207.76 68207.75 68207.75 68207.75 68207.75 68207.76 68207.76 68207.76
+ 68204.99 68204.99 68205.   68203.68 68203.68 68203.68 68203.68 68203.67
+ 68203.67 68197.36 68159.18 68147.06 68155.17 68125.   68129.09 68131.99
+ 68164.   68163.99 68172.1  68186.83]
+2024-05-28 23:51:38 Starting price prediction using ARIMA...
+2024-05-28 23:51:44 Price prediction completed.
+2024-05-28 23:51:45 Plot updated with actual and predicted prices.
+2024-05-28 23:51:46 Current time: 2024-05-28 23:51:46
+2024-05-28 23:51:46 Started Fetching data from binance
+2024-05-28 23:51:46 Fetching data from Binance API...
+2024-05-28 23:51:46 Fetched price: 68195.99
+2024-05-28 23:51:46 Ending Fetching data from binance
+2024-05-28 23:51:46 Latest BTC Price: 68195.99 USDT
+2024-05-28 23:51:46 Current length of price history: 74
+2024-05-28 23:51:46 Price history length: 74 and prediction days: 60
+2024-05-28 23:51:46 Preparing data for prediction...
+2024-05-28 23:51:46 train_data [68184.   68185.44 68185.43 68187.43 68187.43 68187.44 68187.43 68191.28
+ 68191.28 68191.28 68191.28 68191.29 68191.28 68191.28 68191.28 68191.28
+ 68191.29 68191.29 68191.29 68191.28 68191.29 68191.29 68191.29 68199.5
+ 68204.99 68204.99 68204.99 68205.   68204.99 68205.   68204.99 68207.76
+ 68207.75 68207.75 68207.75 68207.75 68207.76 68207.76 68207.76 68204.99
+ 68204.99 68205.   68203.68 68203.68 68203.68 68203.68 68203.67 68203.67
+ 68197.36 68159.18 68147.06 68155.17 68125.   68129.09 68131.99 68164.
+ 68163.99 68172.1  68186.83 68195.99]
+2024-05-28 23:51:46 Starting price prediction using ARIMA...

@@ -13,6 +13,7 @@ Această aplicație implementează o predicție a prețului criptomonedelor în 
 ## Cerințe
 
 - Python 3.7 sau mai mare
+- Trebuie să fie generate API_KEY și API_SECRET de la Binance
 
 ## Instalare
 
@@ -27,8 +28,10 @@ git checkout master
 python -m venv .venv
 .venv/Scripts/activate.bat
 ```
+3. Adăugarea valorilor de la Binance în .env
+   - crează valorile API_KEY și API_SECRET de la Binance
 
-3. Instalează pachetele necesare:
+4. Instalează pachetele necesare:
 
 ```bash
 pip install -r requirements.txt
