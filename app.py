@@ -6,6 +6,7 @@ import pmdarima as pm
 import time
 import requests
 import logging
+from PIL import Image
 
 # Configure logging
 logging.basicConfig(filename='project.log', level=logging.INFO,
@@ -55,7 +56,11 @@ def predict_price(prices):
     return forecast, conf_int
 
 # Streamlit app
-st.title("Real-Time Cryptocurrency Price Prediction")
+logo = Image.open("sigmoid_logo.jpg")
+col1, col2 = st.columns([1, 6])
+col1.image(logo, use_column_width=True)
+col2.title("Real-Time Cryptocurrency Price Prediction")
+
 st.write(f"Prediction for {crypto_currency}/{against_currency}")
 
 # Placeholder for the plot and the price display
@@ -103,24 +108,36 @@ if not st.session_state.stop_button:
                 logging.info('Preparing data for prediction...')
                 train_data = np.array(st.session_state.price_history[-prediction_days:])
 
+                # Remove NaN values from train_data
+                train_data = train_data[~np.isnan(train_data)]
+
                 logging.info(f'train_data {train_data}')
-                # Predict the next `prediction_days` values
-                forecast, conf_int = predict_price(train_data)
+                # Check if train_data has enough data points after removing NaN values
+                if len(train_data) < prediction_days:
+                    logging.warning('Not enough data points for prediction after removing NaN values.')
+                    plot_placeholder.text("Not enough data points for prediction after removing NaN values.")
+                else:
+                    # Predict the next `prediction_days` values
+                    forecast, conf_int = predict_price(train_data)
 
-                # Plot the actual and predicted prices
-                fig, ax = plt.subplots()
-                ax.plot(st.session_state.price_history, color='blue', label='Actual Price')
+                    # Plot the actual and predicted prices
+                    fig, ax = plt.subplots()
+                    ax.plot(st.session_state.price_history, color='blue', label='Actual Price')
 
-                # Plot the forecasted prices
-                forecast_index = range(len(st.session_state.price_history), len(st.session_state.price_history) + prediction_days)
-                ax.plot(forecast_index, forecast, color='red', linestyle='--', label='Predicted Price')
+                    # Plot the forecasted prices
+                    forecast_index = range(len(st.session_state.price_history), len(st.session_state.price_history) + prediction_days)
+                    ax.plot(forecast_index, forecast, color='red', linestyle='--', label='Predicted Price')
 
-                # Plot confidence intervals
-                ax.fill_between(forecast_index, conf_int[:, 0], conf_int[:, 1], color='pink', alpha=0.3)
+                    # Plot confidence intervals
+                    ax.fill_between(forecast_index, conf_int[:, 0], conf_int[:, 1], color='pink', alpha=0.3)
 
-                ax.legend()
-                plot_placeholder.pyplot(fig)
-                logging.info('Plot updated with actual and predicted prices.')
+                    # Set axis labels
+                    ax.set_xlabel('Timp (minute)', fontsize=12)
+                    ax.set_ylabel('Preț BTC (USDT)', fontsize=12)
+
+                    ax.legend()
+                    plot_placeholder.pyplot(fig)
+                    logging.info('Plot updated with actual and predicted prices.')
 
             else:
                 plot_placeholder.text("Collecting data...")
